@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProteinePlusApp.MVVM.Views.AddExercisePage"
+             xmlns:viewmodel="clr-namespace:ProteinePlusApp.MVVM.ViewModels"
+             x:DataType="viewmodel:WorkoutViewModel"
+             Title="Add Exercises"
+             BackgroundColor="Beige">
+    <VerticalStackLayout>
+        
+        <Label Text="Add Exercise" FontSize="Title" FontAttributes="Bold" HorizontalOptions="Center" Padding="15" />
+         
+
+        <Image Source="addexerciseimg.jpg" BackgroundColor="Transparent" HeightRequest="170" WidthRequest="750"/>
+
+        <Label Text="Enter the name of you exercise and then you can also add how many sets you do and how many reps per set." Padding="15"/>
+        
+        <!-- Exercise Name Input -->
+        <Entry Placeholder="Enter Exercise Name"
+               x:Name="exerciseNameEntry"
+               FontSize="20"
+               Text="{Binding Name}"
+               Margin="10" />
+
+        <!-- Other Exercise Details Input (Sets, Reps,) -->
+        <Entry Placeholder="Enter Sets Completed" 
+               x:Name="setsCompletedEntry" 
+               FontSize="20"
+               Text="{Binding Sets}"
+               Margin="10"  />
+
+        <Entry Placeholder="Enter Reps Completed" 
+               x:Name="repsCompletedEntry" 
+               FontSize="20"
+               Text="{Binding Reps}"
+               Margin="10" />
+
+        <!-- Add other input fields as needed for exercise details -->
+
+        <!-- Save Exercise Button -->
+        <Button Text="Save Exercise" 
+                Command="{Binding AddCommand}"
+                Clicked="OnSaveExerciseClicked" 
+                Margin="10" />
+    </VerticalStackLayout>
+</ContentPage>

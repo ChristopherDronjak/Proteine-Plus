@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProteinePlusApp.MVVM.Views.WorkoutCreatePage"
+             xmlns:viewmodel="clr-namespace:ProteinePlusApp.MVVM.ViewModels"
+             x:DataType="viewmodel:WorkoutViewModel"
+             Title="Workout Create"
+             BackgroundColor="Beige">
+
+    <StackLayout>
+
+        <Label Text="Welcome to Proteine Plus Workouts" HorizontalOptions="Center" VerticalOptions="Start" FontSize="Large" Margin="0,0,0,10" Padding="10" FontAttributes="Bold"/>
+
+        <Image Source="benchpress.png" BackgroundColor="Transparent" HeightRequest="170" WidthRequest="750"/>
+        
+        <Label Text="This new feature of Proteine will allow to to create your workouts and then be able to view your workouts after you have created them so you can remember them for next time." Padding="15"/>
+        <Label Text="Coupled with the calorie tracking features of Proteine Plus you can really begin to take a hold of your fitness journey." Padding="15"/>
+
+        <Label Text="Click here to create workouts! " FontSize="Medium" Padding="10" FontAttributes="Bold" HorizontalOptions="Center"/>
+        <!--Button for Creating Exercises-->
+        <Button  
+            Margin="20"
+            Text="Create Exercise" 
+            Clicked="Button_Clicked" 
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            HeightRequest="70"
+            WidthRequest="200"/>
+
+        <Label Text="Click here to view your workouts!" FontSize="Medium" Padding="10" FontAttributes="Bold" HorizontalOptions="Center"/>
+        <!--Button for Viewing exercises-->
+        <Button  
+            Margin="20"
+            Text="View Exercises" 
+            Clicked="Button_Clicked_1" 
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            HeightRequest="70"
+            WidthRequest="200"/>
+
+
+    </StackLayout>
+</ContentPage>
