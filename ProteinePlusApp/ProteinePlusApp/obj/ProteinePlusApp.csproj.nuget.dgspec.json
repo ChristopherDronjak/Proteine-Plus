@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nzbob\\source\\repos\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj": {}
+    "C:\\Users\\harra\\Desktop\\Term 4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nzbob\\source\\repos\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj": {
+    "C:\\Users\\harra\\Desktop\\Term 4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nzbob\\source\\repos\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj",
+        "projectUniqueName": "C:\\Users\\harra\\Desktop\\Term 4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj",
         "projectName": "ProteinePlusApp",
-        "projectPath": "C:\\Users\\nzbob\\source\\repos\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj",
-        "packagesPath": "C:\\Users\\nzbob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nzbob\\source\\repos\\ProteinePlusApp\\ProteinePlusApp\\obj\\",
+        "projectPath": "C:\\Users\\harra\\Desktop\\Term 4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj",
+        "packagesPath": "C:\\Users\\harra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harra\\Desktop\\Term 4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nzbob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\harra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -94,6 +94,10 @@
               "version": "[7.0.92, )",
               "autoReferenced": true
             },
+            "SQLitePCLRaw.bundle_green": {
+              "target": "Package",
+              "version": "[2.1.7, )"
+            },
             "Xamarin.Android.Glide": {
               "target": "Package",
               "version": "[4.13.2.2, )",
@@ -148,6 +152,10 @@
               "target": "Package",
               "version": "[1.7.0.1, )",
               "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -215,6 +223,14 @@
               "target": "Package",
               "version": "[7.0.92, )",
               "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_green": {
+              "target": "Package",
+              "version": "[2.1.7, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -282,6 +298,14 @@
               "target": "Package",
               "version": "[7.0.92, )",
               "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_green": {
+              "target": "Package",
+              "version": "[2.1.7, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -360,6 +384,14 @@
               "target": "Package",
               "version": "[1.2.221209.1, )",
               "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_green": {
+              "target": "Package",
+              "version": "[2.1.7, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [

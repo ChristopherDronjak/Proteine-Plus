@@ -27,8 +27,8 @@
             HeightRequest="70"
             WidthRequest="200"/>
 
-        <Label Text="Click here to view your workouts!" FontSize="Medium" Padding="10" FontAttributes="Bold" HorizontalOptions="Center"/>
-        <!--Button for Viewing exercises-->
+        <!--<Label Text="Click here to view your workouts!" FontSize="Medium" Padding="10" FontAttributes="Bold" HorizontalOptions="Center"/>
+        --><!--Button for Viewing exercises--><!--
         <Button  
             Margin="20"
             Text="View Exercises" 
@@ -36,7 +36,7 @@
             VerticalOptions="Center"
             HorizontalOptions="Center"
             HeightRequest="70"
-            WidthRequest="200"/>
+            WidthRequest="200"/>-->
 
 
     </StackLayout>

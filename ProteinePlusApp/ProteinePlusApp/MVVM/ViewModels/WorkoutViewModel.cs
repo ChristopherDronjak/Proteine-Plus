@@ -7,52 +7,52 @@ using ProteinePlusApp.MVVM.Views;
 namespace ProteinePlusApp.MVVM.ViewModels;
 public partial class WorkoutViewModel : ObservableObject
 {
-    public WorkoutViewModel()
-    {
-        Items = new ObservableCollection<string>();
-    }
-    [ObservableProperty]
-    ObservableCollection<string> items;
+    //public WorkoutViewModel()
+    //{
+    //    Items = new ObservableCollection<string>();
+    //}
+    //[ObservableProperty]
+    //ObservableCollection<string> items;
 
-    [ObservableProperty]
-    string name;
+    //[ObservableProperty]
+    //string name;
 
-    [ObservableProperty]
-    string sets;
+    //[ObservableProperty]
+    //string sets;
 
-    [ObservableProperty]
-    string reps;
+    //[ObservableProperty]
+    //string reps;
 
-    [RelayCommand]
+    //[RelayCommand]
 
-    void Add()
-    {
-        //Adding Name
-        if (string.IsNullOrWhiteSpace(name))
-            return;
-        if (string.IsNullOrWhiteSpace(sets))
-            return;
-        if (string.IsNullOrWhiteSpace(reps))
-            return;
+    //void Add()
+    //{
+    //    //Adding Name
+    //    if (string.IsNullOrWhiteSpace(name))
+    //        return;
+    //    if (string.IsNullOrWhiteSpace(sets))
+    //        return;
+    //    if (string.IsNullOrWhiteSpace(reps))
+    //        return;
 
-        Items.Add(name);
-        Items.Add(sets);
-        Items.Add(reps);
+    //    Items.Add(name);
+    //    Items.Add(sets);
+    //    Items.Add(reps);
 
-        name = string.Empty;
-        sets = string.Empty;
-        reps = string.Empty;
+    //    name = string.Empty;
+    //    sets = string.Empty;
+    //    reps = string.Empty;
 
 
-    }
+    //}
 
-    [RelayCommand]
+    //[RelayCommand]
 
-    void Delete(string s)
-    {
-        if (Items.Contains(s))
-        { Items.Remove(s); }
+    //void Delete(string s)
+    //{
+    //    if (Items.Contains(s))
+    //    { Items.Remove(s); }
 
-    }
+    //}
 
 }
