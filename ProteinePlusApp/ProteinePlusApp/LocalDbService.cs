@@ -1,10 +1,10 @@
 ﻿using SQLite;
-
+using ProteinePlusApp.MVVM.Views;
 namespace ProteinePlusApp
 {
     public class LocalDbService
     {
-        private const string DB_NAME = "proteineplus_local_db.db3";
+        private const string DB_NAME = "proteinedata_local_db.db3";
         private readonly SQLiteAsyncConnection _connection;
 
         public LocalDbService()
@@ -36,6 +36,18 @@ namespace ProteinePlusApp
         public async Task Delete(Exercise exercise)
         {
             await _connection.DeleteAsync(exercise);
+        }
+
+        public async Task<int> SaveCategoryAsync(Exercise exercise)
+        {
+            if (exercise.Id != 0)
+            {
+                return await _connection.UpdateAsync(exercise);
+            }
+            else
+            {
+                return await _connection.InsertAsync(exercise);
+            }
         }
     }
 }

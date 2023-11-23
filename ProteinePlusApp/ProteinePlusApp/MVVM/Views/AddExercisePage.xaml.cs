@@ -1,3 +1,4 @@
+using ProteinePlusApp.MVVM.ViewModels;
 namespace ProteinePlusApp.MVVM.Views;
 
 public partial class AddExercisePage : ContentPage
@@ -8,31 +9,31 @@ public partial class AddExercisePage : ContentPage
     public AddExercisePage(LocalDbService dbService)
     {
         InitializeComponent();
+        BindingContext = new WorkoutViewModel();
         _dbService = dbService;
-        Task.Run(async () => listView.ItemsSource = await _dbService.GetExercises());
+        Task.Run(async () => listView.ItemsSource = await App.database.GetExercises());
     }
 
-    private async void saveButton_Clicked(object sender, EventArgs e)
+    private async void SaveButton_Clicked(object sender, EventArgs e)
     {
+
         if (_editExerciseId == 0)
         {
-            await _dbService.Create(new Exercise
+            await App.database.Create(new Exercise
             {
                 ExerciseName = nameEntryField.Text,
                 Sets = setsEntryField.Text,
                 Reps = repsEntryField.Text
-
             });
         }
         else
         {
-            await _dbService.Update(new Exercise
+            await App.database.Update(new Exercise
             {
                 Id = _editExerciseId,
                 ExerciseName = nameEntryField.Text,
                 Sets = setsEntryField.Text,
                 Reps = repsEntryField.Text
-
             });
 
             _editExerciseId = 0;
@@ -42,10 +43,10 @@ public partial class AddExercisePage : ContentPage
         setsEntryField.Text = string.Empty;
         repsEntryField.Text = string.Empty;
 
-        listView.ItemsSource = await _dbService.GetExercises();
+        listView.ItemsSource = await App.database.GetExercises();
     }
 
-    private async void listView_ItemTapped(object sender, ItemTappedEventArgs e)
+    private async void ListView_ItemTapped(object sender, ItemTappedEventArgs e)
     {
         var exercise = (Exercise)e.Item;
         var action = await DisplayActionSheet("Action", "Cancel", null, "Edit", "Delete");
@@ -62,7 +63,7 @@ public partial class AddExercisePage : ContentPage
 
             case "Delete":
                 await _dbService.Delete(exercise);
-                listView.ItemsSource = await _dbService.GetExercises();
+                listView.ItemsSource = await App.database.GetExercises();
                 break;
         }
     }

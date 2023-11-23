@@ -1,4 +1,5 @@
 ﻿using SQLite;
+using ProteinePlusApp.MVVM.Views;
 namespace ProteinePlusApp
 {
     [Table("exercise")]

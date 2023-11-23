@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
+using ProteinePlusApp.MVVM.ViewModels;
 using ProteinePlusApp.MVVM.Views;
 
 namespace ProteinePlusApp
@@ -18,6 +19,8 @@ namespace ProteinePlusApp
 
             builder.Services.AddSingleton<LocalDbService>();
             builder.Services.AddTransient<AddExercisePage>();
+            builder.Services.AddSingleton<WorkoutViewModel>();
+
 #if DEBUG
             builder.Logging.AddDebug();
 #endif

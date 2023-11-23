@@ -18,9 +18,9 @@
                 <Entry x:Name="nameEntryField" Placeholder="Name"/>
                 <Entry x:Name="setsEntryField" Placeholder="Sets"/>
                 <Entry x:Name="repsEntryField" Placeholder="Reps"/>
-                <Button x:Name="saveButton" Text="Save" Clicked="saveButton_Clicked"/>
+                <Button x:Name="saveButton" Text="Save" Clicked="SaveButton_Clicked"/>
             </VerticalStackLayout>
-            <ListView x:Name="listView" FlexLayout.Grow="1" HasUnevenRows="True" ItemTapped="listView_ItemTapped">
+            <ListView x:Name="listView" FlexLayout.Grow="1" HasUnevenRows="True" ItemTapped="ListView_ItemTapped">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>

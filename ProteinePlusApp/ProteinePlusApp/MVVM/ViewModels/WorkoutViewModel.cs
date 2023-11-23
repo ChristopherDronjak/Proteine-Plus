@@ -7,10 +7,10 @@ using ProteinePlusApp.MVVM.Views;
 namespace ProteinePlusApp.MVVM.ViewModels;
 public partial class WorkoutViewModel : ObservableObject
 {
-    //public WorkoutViewModel()
-    //{
+    public WorkoutViewModel()
+    {
     //    Items = new ObservableCollection<string>();
-    //}
+    }
     //[ObservableProperty]
     //ObservableCollection<string> items;
 
