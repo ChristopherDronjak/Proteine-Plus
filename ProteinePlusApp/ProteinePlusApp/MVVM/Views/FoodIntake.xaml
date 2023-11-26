@@ -5,7 +5,7 @@
              Title="FoodIntake"
              BackgroundColor="Beige">
 
-    <StackLayout>
+    <!--<StackLayout>
 
         <Label Text="Food Intake" HorizontalOptions="CenterAndExpand" FontSize="Large" />
 
@@ -18,6 +18,37 @@
 
         <Button Text="Submit" BackgroundColor="#A7BC5B" BorderColor="#A7BC5B" Clicked="OnSubmitClicked"/>
 
-    </StackLayout>
+    </StackLayout>-->
+
+
+    <FlexLayout Direction="Column">
+
+        <VerticalStackLayout Padding="10" FlexLayout.Basis="400" BackgroundColor="AliceBlue" >
+            <Entry x:Name="proteinEntryField" Placeholder="Protein"/>
+            <Entry x:Name="caloriesEntryField" Placeholder="Calories"/>
+            <Entry x:Name="fatEntryField" Placeholder="Fat"/>
+            <Button x:Name="saveTrackButton" Text="Save" Clicked="SaveTrackButton_Clicked"/>
+        </VerticalStackLayout>
+        <ListView x:Name="listTrackView" FlexLayout.Grow="1" HasUnevenRows="True" ItemTapped="ListTrackView_ItemTapped">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <VerticalStackLayout Padding="5">
+                            <Label Text="{Binding Protein}" FontSize="17" FontAttributes="Bold"/>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <Label Grid.Column="0" Text="{Binding Calories}"/>
+                                <Label Grid.Column="2" Text="{Binding Fat}" FontAttributes="Bold"/>
+                            </Grid>
+                        </VerticalStackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </FlexLayout>
 
 </ContentPage>

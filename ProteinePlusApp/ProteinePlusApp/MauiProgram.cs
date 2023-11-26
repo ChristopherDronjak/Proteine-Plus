@@ -20,6 +20,8 @@ namespace ProteinePlusApp
             builder.Services.AddSingleton<LocalDbService>();
             builder.Services.AddTransient<AddExercisePage>();
             builder.Services.AddSingleton<WorkoutViewModel>();
+            builder.Services.AddTransient<FoodIntake>();
+            builder.Services.AddSingleton<FoodIntakeViewModel>();
 
 #if DEBUG
             builder.Logging.AddDebug();

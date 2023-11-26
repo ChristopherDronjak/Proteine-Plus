@@ -14,7 +14,7 @@ public partial class HomePage : ContentPage
 
     private void Foodintake_Clicked(object sender, EventArgs e)
     {
-        Navigation.PushAsync(new NavigationPage(new FoodIntake()));
+        Navigation.PushAsync(new NavigationPage(new FoodIntake(dbService)));
     }
 
     private void Workoutcreate_Clicked(object sender, EventArgs e)

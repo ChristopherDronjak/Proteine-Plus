@@ -62,7 +62,7 @@ public partial class AddExercisePage : ContentPage
                 break;
 
             case "Delete":
-                await _dbService.Delete(exercise);
+                await App.database.Delete(exercise);
                 listView.ItemsSource = await App.database.GetExercises();
                 break;
         }
