@@ -1,3 +1,4 @@
+using ProteinePlusApp;
 using SQLite;
 using System.Diagnostics;
 

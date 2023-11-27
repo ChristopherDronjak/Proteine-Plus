@@ -1,5 +1,7 @@
+using Microsoft.VisualBasic;
 using ProteinePlusApp.MVVM.Models;
 using ProteinePlusApp.MVVM.ViewModels;
+
 namespace ProteinePlusApp.MVVM.Views;
 
 public partial class FoodIntake : ContentPage
@@ -23,9 +25,11 @@ public partial class FoodIntake : ContentPage
         {
             await App.database.Create(new Tracker
             {
+                MealName = mealnameEntryField.Text,
                 Protein = proteinEntryField.Text,
                 Calories = caloriesEntryField.Text,
-                Fat = fatEntryField.Text
+                Fat = fatEntryField.Text,
+                TraDate = tradateEntryField.Date
             });
         }
         else
@@ -33,17 +37,22 @@ public partial class FoodIntake : ContentPage
             await App.database.Update(new Tracker
             {
                 TrackId = _editTrackerId,
+                MealName = mealnameEntryField.Text,
                 Protein = proteinEntryField.Text,
                 Calories = caloriesEntryField.Text,
-                Fat = fatEntryField.Text
+                Fat = fatEntryField.Text,
+                TraDate = tradateEntryField.Date
+
             });
 
             _editTrackerId = 0;
         }
 
+        mealnameEntryField.Text = string.Empty;
         proteinEntryField.Text = string.Empty;
         caloriesEntryField.Text = string.Empty;
         fatEntryField.Text = string.Empty;
+        tradateEntryField.Date = DateTime.Now;
 
         listTrackView.ItemsSource = await App.database.GetTrackers();
     }
@@ -58,9 +67,13 @@ public partial class FoodIntake : ContentPage
             case "Edit":
 
                 _editTrackerId = tracker.TrackId;
+                mealnameEntryField.Text = tracker.MealName;
                 proteinEntryField.Text = tracker.Protein;
                 caloriesEntryField.Text = tracker.Calories;
                 fatEntryField.Text = tracker.Fat;
+                tradateEntryField.Date = tracker.TraDate;
+
+
                 break;
 
             case "Delete":

@@ -17,10 +17,5 @@ public partial class WorkoutCreatePage : ContentPage
             await Navigation.PushAsync(new AddExercisePage(dbService));
 
         }
-
-        //private async void Button_Clicked_1(object sender, EventArgs e)
-        //{
-        //    await Navigation.PushAsync(new ViewExercisePage());
-        //}
     
 }
