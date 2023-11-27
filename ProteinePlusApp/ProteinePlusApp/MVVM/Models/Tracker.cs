@@ -11,6 +11,10 @@ namespace ProteinePlusApp.MVVM.Models
        [Column("trackid")]
         public int TrackId { get; set; }
 
+        [Column("mealname")]
+        public string MealName { get; set; }
+
+
         [Column("protein")]
         public string Protein { get; set; }
 
