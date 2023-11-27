@@ -19,5 +19,8 @@ namespace ProteinePlusApp.MVVM.Models
 
         [Column("sets")]
         public string Sets { get; set; }
+
+        [Column("excdate")]
+        public DateTime ExcDate { get; set; }
     }
 }

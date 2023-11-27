@@ -10,13 +10,16 @@
             <Image Source="foodintakeimg.jpg" BackgroundColor="Transparent" HeightRequest="170" WidthRequest="750"/>
             
             <FlexLayout Direction="Column">
-                <VerticalStackLayout Padding="10" FlexLayout.Basis="400">
+                <VerticalStackLayout Padding="10" FlexLayout.Basis="600">
                     <Entry x:Name="mealnameEntryField" Placeholder="Meal Name"/>
                     <Entry x:Name="proteinEntryField" Placeholder="Protein (g)"/>
                     <Entry x:Name="caloriesEntryField" Placeholder="Calories (kcal)"/>
                     <Entry x:Name="fatEntryField" Placeholder="Fat (g)"/>
-                    <Button x:Name="saveTrackButton" BackgroundColor="#A7BC5B" BorderColor="#A7BC5B" Text="Save" Clicked="SaveTrackButton_Clicked"/>
+                    <DatePicker x:Name="tradateEntryField"/>
+                    <Button x:Name="saveTrackButton" Text="Save Meal" Clicked="SaveTrackButton_Clicked"/>
+
                 </VerticalStackLayout>
+                
                 <ListView x:Name="listTrackView" FlexLayout.Grow="1" HasUnevenRows="True" ItemTapped="ListTrackView_ItemTapped">
                     <ListView.ItemTemplate>
                         <DataTemplate>
@@ -24,15 +27,17 @@
                                 <VerticalStackLayout Padding="5">
                                     <Label Grid.Row="1" Text="{Binding MealName}" FontSize="17" FontAttributes="Bold"/>
                                     <Label Grid.Row="2" Grid.Column="0" Text= "{Binding Protein}" FontSize="17" FontAttributes="Bold"/>
+                                    <Label Grid.Row="3" Grid.Column="1" Text="{Binding Calories}"/>
+                                    <Label Grid.Row="4" Grid.Column="2" Text="{Binding Fat}" FontAttributes="Bold"/>
+                                    <Label Grid.Row="5" Grid.Column="2" Text="{Binding TraDate}" FontAttributes="Bold"/>
                                     <Grid>
                                         <Grid.ColumnDefinitions>
                                             <ColumnDefinition Width="Auto"/>
                                             <ColumnDefinition Width="Auto"/>
-                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                            <ColumnDefinition Width="Auto"/>
                                             <ColumnDefinition Width="Auto"/>
                                         </Grid.ColumnDefinitions>
-                                        <Label Grid.Row="3" Grid.Column="1" Text="{Binding Calories}"/>
-                                        <Label Grid.Row="4" Grid.Column="2" Text="{Binding Fat}" FontAttributes="Bold"/>
                                     </Grid>
                                 </VerticalStackLayout>
                             </ViewCell>

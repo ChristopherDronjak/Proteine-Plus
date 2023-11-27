@@ -14,7 +14,6 @@ namespace ProteinePlusApp.MVVM.Models
         [Column("mealname")]
         public string MealName { get; set; }
 
-
         [Column("protein")]
         public string Protein { get; set; }
 
@@ -23,5 +22,8 @@ namespace ProteinePlusApp.MVVM.Models
 
         [Column("fat")]
         public string Fat { get; set; }
+
+        [Column("tradate")]
+        public DateTime TraDate { get; set; }
     }
 }
