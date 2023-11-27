@@ -1,3 +1,4 @@
+using ProteinePlusApp.MVVM.Models;
 using ProteinePlusApp.MVVM.ViewModels;
 namespace ProteinePlusApp.MVVM.Views;
 

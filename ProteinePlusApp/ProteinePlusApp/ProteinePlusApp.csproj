@@ -64,7 +64,6 @@
 
 	<ItemGroup>
 	  <Folder Include="Database\" />
-	  <Folder Include="MVVM\Models\" />
 	</ItemGroup>
 
 	<ItemGroup>

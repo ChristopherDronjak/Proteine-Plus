@@ -1,5 +1,7 @@
 ﻿using SQLite;
 using ProteinePlusApp.MVVM.Views;
+using ProteinePlusApp.MVVM.Models;
+
 namespace ProteinePlusApp
 {
     public class LocalDbService

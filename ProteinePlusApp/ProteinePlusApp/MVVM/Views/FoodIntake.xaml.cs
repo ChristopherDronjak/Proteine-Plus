@@ -1,3 +1,4 @@
+using ProteinePlusApp.MVVM.Models;
 using ProteinePlusApp.MVVM.ViewModels;
 namespace ProteinePlusApp.MVVM.Views;
 
@@ -12,7 +13,7 @@ public partial class FoodIntake : ContentPage
         InitializeComponent();
         BindingContext = new FoodIntakeViewModel();
         _dbService = dbService;
-        Task.Run(async () => listTrackView.ItemsSource = await App.database.GetExercises());
+        Task.Run(async () => listTrackView.ItemsSource = await App.database.GetTrackers());
     }
 
     private async void SaveTrackButton_Clicked(object sender, EventArgs e)
@@ -44,7 +45,7 @@ public partial class FoodIntake : ContentPage
         caloriesEntryField.Text = string.Empty;
         fatEntryField.Text = string.Empty;
 
-        listTrackView.ItemsSource = await App.database.GetExercises();
+        listTrackView.ItemsSource = await App.database.GetTrackers();
     }
 
     private async void ListTrackView_ItemTapped(object sender, ItemTappedEventArgs e)
@@ -64,7 +65,7 @@ public partial class FoodIntake : ContentPage
 
             case "Delete":
                 await App.database.Delete(tracker);
-                listTrackView.ItemsSource = await App.database.GetExercises();
+                listTrackView.ItemsSource = await App.database.GetTrackers();
                 break;
         }
     }
