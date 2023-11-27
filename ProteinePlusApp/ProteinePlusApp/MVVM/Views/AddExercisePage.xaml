@@ -14,10 +14,11 @@
             <Label Text="Enter the name of you exercise and then you can also add how many sets you do and how many reps per set." Padding="15"/>
             <FlexLayout Direction="Column">
 
-                <VerticalStackLayout Padding="10" FlexLayout.Basis="400">
+                <VerticalStackLayout Padding="10" FlexLayout.Basis="500">
                     <Entry x:Name="nameEntryField" Placeholder="Name"/>
                     <Entry x:Name="setsEntryField" Placeholder="Sets"/>
                     <Entry x:Name="repsEntryField" Placeholder="Reps"/>
+                    <DatePicker x:Name="excdateEntryField"/>
                     <Button x:Name="saveButton" Text="Save" Clicked="SaveButton_Clicked"/>
                 </VerticalStackLayout>
                 <ListView x:Name="listView" FlexLayout.Grow="1" HasUnevenRows="True" ItemTapped="ListView_ItemTapped">

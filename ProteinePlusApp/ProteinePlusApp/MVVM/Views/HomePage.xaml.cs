@@ -1,3 +1,4 @@
+using ProteinePlusApp;
 using SQLite;
 namespace ProteinePlusApp.MVVM.Views;
 

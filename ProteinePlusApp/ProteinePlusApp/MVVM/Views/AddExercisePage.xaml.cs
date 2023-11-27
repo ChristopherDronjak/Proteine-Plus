@@ -24,7 +24,8 @@ public partial class AddExercisePage : ContentPage
             {
                 ExerciseName = nameEntryField.Text,
                 Sets = setsEntryField.Text,
-                Reps = repsEntryField.Text
+                Reps = repsEntryField.Text,
+                ExcDate = excdateEntryField.Date
             });
         }
         else
@@ -34,7 +35,9 @@ public partial class AddExercisePage : ContentPage
                 Id = _editExerciseId,
                 ExerciseName = nameEntryField.Text,
                 Sets = setsEntryField.Text,
-                Reps = repsEntryField.Text
+                Reps = repsEntryField.Text,
+                ExcDate = excdateEntryField.Date
+
             });
 
             _editExerciseId = 0;
@@ -43,6 +46,7 @@ public partial class AddExercisePage : ContentPage
         nameEntryField.Text = string.Empty;
         setsEntryField.Text = string.Empty;
         repsEntryField.Text = string.Empty;
+        excdateEntryField.Date = DateTime.Now;
 
         listView.ItemsSource = await App.database.GetExercises();
     }
@@ -60,6 +64,7 @@ public partial class AddExercisePage : ContentPage
                 nameEntryField.Text = exercise.ExerciseName;
                 setsEntryField.Text = exercise.Sets;
                 repsEntryField.Text = exercise.Reps;
+                excdateEntryField.Date = exercise.ExcDate;
                 break;
 
             case "Delete":
