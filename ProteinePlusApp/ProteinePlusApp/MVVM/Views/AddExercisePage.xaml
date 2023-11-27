@@ -5,42 +5,44 @@
              Title="Add Exercises"
              BackgroundColor="Beige">
 
+    <ScrollView>
+        <VerticalStackLayout Padding="20">
+            <Label Text="Add Exercise" FontSize="Title" FontAttributes="Bold" HorizontalOptions="Center" Padding="15" />
 
-        <!--<VerticalStackLayout Padding="20">
-        <Label Text="Add Exercise" FontSize="Title" FontAttributes="Bold" HorizontalOptions="Center" Padding="15" />
+            <Image Source="addexerciseimg.jpg" BackgroundColor="Transparent" HeightRequest="170" WidthRequest="750"/>
 
-        <Image Source="addexerciseimg.jpg" BackgroundColor="Transparent" HeightRequest="170" WidthRequest="750"/>
+            <Label Text="Enter the name of you exercise and then you can also add how many sets you do and how many reps per set." Padding="15"/>
 
-        <Label Text="Enter the name of you exercise and then you can also add how many sets you do and how many reps per set." Padding="15"/>-->
-        <FlexLayout Direction="Column">
+            <FlexLayout Direction="Column">
 
-            <VerticalStackLayout Padding="10" FlexLayout.Basis="400" BackgroundColor="AliceBlue" >
-                <Entry x:Name="nameEntryField" Placeholder="Name"/>
-                <Entry x:Name="setsEntryField" Placeholder="Sets"/>
-                <Entry x:Name="repsEntryField" Placeholder="Reps"/>
-                <Button x:Name="saveButton" Text="Save" Clicked="SaveButton_Clicked"/>
-            </VerticalStackLayout>
-            <ListView x:Name="listView" FlexLayout.Grow="1" HasUnevenRows="True" ItemTapped="ListView_ItemTapped">
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <ViewCell>
-                            <VerticalStackLayout Padding="5">
-                                <Label Text="{Binding ExerciseName}" FontSize="17" FontAttributes="Bold"/>
-                                <Grid>
-                                    <Grid.ColumnDefinitions>
-                                        <ColumnDefinition Width="Auto"/>
-                                        <ColumnDefinition Width="*"/>
-                                        <ColumnDefinition Width="Auto"/>
-                                    </Grid.ColumnDefinitions>
-                                    <Label Grid.Column="0" Text="{Binding Sets}"/>
-                                    <Label Grid.Column="2" Text="{Binding Reps}" FontAttributes="Bold"/>
-                                </Grid>
-                            </VerticalStackLayout>
-                        </ViewCell>
-                    </DataTemplate>
-                </ListView.ItemTemplate>
-            </ListView>
-        </FlexLayout>
-    <!--</VerticalStackLayout>-->
+                <VerticalStackLayout Padding="10" FlexLayout.Basis="400" BackgroundColor="Beige" >
+                    <Entry x:Name="nameEntryField" Placeholder="Name"/>
+                    <Entry x:Name="setsEntryField" Placeholder="Sets"/>
+                    <Entry x:Name="repsEntryField" Placeholder="Reps"/>
+                    <Button x:Name="saveButton" Text="Save" Clicked="SaveButton_Clicked"/>
+                </VerticalStackLayout>
+                <ListView x:Name="listView" FlexLayout.Grow="1" HasUnevenRows="True" ItemTapped="ListView_ItemTapped">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <VerticalStackLayout Padding="5">
+                                    <Label Text="{Binding ExerciseName, StringFormat='Exercise: {0}'}" FontSize="17" FontAttributes="Bold"/>
+                                    <Grid>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="Auto"/>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                        </Grid.ColumnDefinitions>
+                                        <Label Grid.Column="0" Text="{Binding Sets, StringFormat='Sets: {0}'}"/>
+                                        <Label Grid.Column="2" Text="{Binding Reps, StringFormat='Reps: {0}'}" FontAttributes="Bold"/>
+                                    </Grid>
+                                </VerticalStackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </FlexLayout>
+        </VerticalStackLayout>
+    </ScrollView>
 
 </ContentPage>

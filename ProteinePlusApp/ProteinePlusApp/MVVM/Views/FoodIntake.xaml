@@ -20,35 +20,44 @@
 
     </StackLayout>-->
 
+    <ScrollView>
+        <VerticalStackLayout>
+            <Label Text="Food Intake" HorizontalOptions="CenterAndExpand" FontSize="Large" />
+            <Image Source="foodintakeimg.jpg" BackgroundColor="Transparent" HeightRequest="170" WidthRequest="750"/>
 
-    <FlexLayout Direction="Column">
+            <FlexLayout Direction="Column">
 
-        <VerticalStackLayout Padding="10" FlexLayout.Basis="400" BackgroundColor="AliceBlue" >
-            <Entry x:Name="proteinEntryField" Placeholder="Protein"/>
-            <Entry x:Name="caloriesEntryField" Placeholder="Calories"/>
-            <Entry x:Name="fatEntryField" Placeholder="Fat"/>
-            <Button x:Name="saveTrackButton" Text="Save" Clicked="SaveTrackButton_Clicked"/>
+
+                <VerticalStackLayout Padding="10" FlexLayout.Basis="400" BackgroundColor="Beige" >
+
+                    <Entry x:Name="proteinEntryField" Placeholder="Protein (g)" Keyboard="Numeric"/>
+                    <Entry x:Name="caloriesEntryField" Placeholder="Calories (kcal)" Keyboard="Numeric"/>
+                    <Entry x:Name="fatEntryField" Placeholder="Fat (g)" Keyboard="Numeric"/>
+                    <Button x:Name="saveTrackButton" Text="Save" Clicked="SaveTrackButton_Clicked" />
+                </VerticalStackLayout>
+                <ListView x:Name="listTrackView" FlexLayout.Grow="1" HasUnevenRows="True" ItemTapped="ListTrackView_ItemTapped">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <VerticalStackLayout Padding="5">
+                                    <Label Text="{Binding Protein, StringFormat='Protein: {0}'}" FontSize="17" FontAttributes="Bold"/>
+                                    <Grid>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="Auto"/>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                        </Grid.ColumnDefinitions>
+                                        <Label Grid.Column="0" Text="{Binding Calories, StringFormat='Calories: {0}'}" FontAttributes="Bold"/>
+                                        
+                                        <Label Grid.Column="2" Text="{Binding Fat, StringFormat='Fat: {0}'}" FontAttributes="Bold"/>
+                                    </Grid>
+                                </VerticalStackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </FlexLayout>
+
         </VerticalStackLayout>
-        <ListView x:Name="listTrackView" FlexLayout.Grow="1" HasUnevenRows="True" ItemTapped="ListTrackView_ItemTapped">
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <ViewCell>
-                        <VerticalStackLayout Padding="5">
-                            <Label Text="{Binding Protein}" FontSize="17" FontAttributes="Bold"/>
-                            <Grid>
-                                <Grid.ColumnDefinitions>
-                                    <ColumnDefinition Width="Auto"/>
-                                    <ColumnDefinition Width="*"/>
-                                    <ColumnDefinition Width="Auto"/>
-                                </Grid.ColumnDefinitions>
-                                <Label Grid.Column="0" Text="{Binding Calories}"/>
-                                <Label Grid.Column="2" Text="{Binding Fat}" FontAttributes="Bold"/>
-                            </Grid>
-                        </VerticalStackLayout>
-                    </ViewCell>
-                </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
-    </FlexLayout>
-
+    </ScrollView>
 </ContentPage>
