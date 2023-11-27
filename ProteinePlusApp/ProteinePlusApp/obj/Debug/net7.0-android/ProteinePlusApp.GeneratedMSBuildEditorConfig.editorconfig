@@ -12,69 +12,69 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = ProteinePlusApp
-build_property.ProjectDir = C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\
+build_property.ProjectDir = C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\
 
-[C:/Users/harra/Desktop/Term 4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/App.xaml]
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProteinePlusApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/harra/Desktop/Term 4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/AppShell.xaml]
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProteinePlusApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/harra/Desktop/Term 4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MainPage.xaml]
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProteinePlusApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/harra/Desktop/Term 4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/AddExercisePage.xaml]
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/AddExercisePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProteinePlusApp.MVVM.Views.AddExercisePage.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\AddExercisePage.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\AddExercisePage.xaml
 
-[C:/Users/harra/Desktop/Term 4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/CalorieInput.xaml]
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/CalorieInput.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProteinePlusApp.MVVM.Views.CalorieInput.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\CalorieInput.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\CalorieInput.xaml
 
-[C:/Users/harra/Desktop/Term 4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/FoodIntake.xaml]
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/FoodIntake.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProteinePlusApp.MVVM.Views.FoodIntake.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\FoodIntake.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\FoodIntake.xaml
 
-[C:/Users/harra/Desktop/Term 4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/HomePage.xaml]
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProteinePlusApp.MVVM.Views.HomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\HomePage.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\HomePage.xaml
 
-[C:/Users/harra/Desktop/Term 4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/ViewExercisePage.xaml]
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/ViewExercisePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProteinePlusApp.MVVM.Views.ViewExercisePage.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\ViewExercisePage.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\ViewExercisePage.xaml
 
-[C:/Users/harra/Desktop/Term 4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/WorkoutCreatePage.xaml]
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/WorkoutCreatePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProteinePlusApp.MVVM.Views.WorkoutCreatePage.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\WorkoutCreatePage.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\WorkoutCreatePage.xaml
 
-[C:/Users/harra/Desktop/Term 4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/Resources/Styles/Colors.xaml]
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProteinePlusApp.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/harra/Desktop/Term 4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/Resources/Styles/Styles.xaml]
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProteinePlusApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
