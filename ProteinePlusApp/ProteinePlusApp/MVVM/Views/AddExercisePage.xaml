@@ -26,15 +26,17 @@
                         <DataTemplate>
                             <ViewCell>
                                 <VerticalStackLayout Padding="5">
-                                    <Label Text="{Binding ExerciseName, StringFormat='Exercise: {0}'}" FontSize="17" FontAttributes="Bold"/>
+                                    <Label Grid.Row="1" Grid.Column="0" Text="{Binding ExerciseName, StringFormat='Exercise: {0}'}" FontSize="17" FontAttributes="Bold"/>
+                                    <Label Grid.Row="2" Grid.Column="1" Text="{Binding Sets, StringFormat='Sets: {0}'}"/>
+                                    <Label Grid.Row="3" Grid.Column="2" Text="{Binding Reps, StringFormat='Reps: {0}'}" FontAttributes="Bold"/>
+                                    <Label Grid.Row="4" Grid.Column="2" Text="{Binding TraDate, StringFormat='Date: {0}'}" FontAttributes="Bold"/>
                                     <Grid>
                                         <Grid.ColumnDefinitions>
                                             <ColumnDefinition Width="Auto"/>
-                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                            <ColumnDefinition Width="Auto"/>
                                             <ColumnDefinition Width="Auto"/>
                                         </Grid.ColumnDefinitions>
-                                        <Label Grid.Column="0" Text="{Binding Sets, StringFormat='Sets: {0}'}"/>
-                                        <Label Grid.Column="2" Text="{Binding Reps, StringFormat='Reps: {0}'}" FontAttributes="Bold"/>
                                     </Grid>
                                 </VerticalStackLayout>
                             </ViewCell>
