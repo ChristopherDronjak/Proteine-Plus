@@ -29,4 +29,9 @@ public partial class HomePage : ContentPage
     {
         await Launcher.Default.OpenAsync("https://docs.google.com/forms/d/e/1FAIpQLSconRpCWMBcZoGsMC5U828ueOfhJchy4YADrgj-Eucoeob2hA/viewform?usp=sf_link");
     }
+
+    private void templateworkouts_Clicked(object sender, EventArgs e)
+    {
+        Navigation.PushAsync(new NavigationPage(new TemplateWorkouts()));
+    }
 }

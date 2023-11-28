@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProteinePlusApp.MVVM.Views.TemplateWorkouts"
+             Title="Template Workouts"
+             BackgroundColor="Beige">
+    
+    <VerticalStackLayout>
+        <Label Text="Proteine Plus Template Workouts" HorizontalOptions="Center" VerticalOptions="Start" FontSize="Large" Margin="0,0,0,10" Padding="10" FontAttributes="Bold"/>
+
+        <Label HorizontalOptions="Center" Padding="5" FontAttributes="Bold" FontSize="15" Text="These workouts consist of Back and Biceps, Chest and triceps, and Legs."/>
+
+        <Label HorizontalOptions="Center" Padding="5" FontAttributes="Bold" FontSize="15" Text="For each category Proteine Plus has created a workout for the user to follow along."/>
+
+        <Label HorizontalOptions="Center" Padding="5" FontAttributes="Bold" FontSize="15" Text="The users of Proteine Plus are encouraged to test and trial these workouts as everyone has different workout styles and their muscles could be triggered differently."/>
+
+        <Button x:Name="backbiceps" Text="Back and Biceps" Clicked="backbiceps_Clicked" HeightRequest="50"  IsEnabled="True"/>
+
+        <Button x:Name="chesttriceps" Text="Chest and Triceps" Clicked="chesttriceps_Clicked" HeightRequest="50"  IsEnabled="True"/>
+
+        <Button x:Name="legs" Text="Legs" Clicked="legs_Clicked" HeightRequest="50"  IsEnabled="True"/>
+
+
+    </VerticalStackLayout>
+</ContentPage>

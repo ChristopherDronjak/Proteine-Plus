@@ -27,9 +27,9 @@
                                 <VerticalStackLayout Padding="5">
                                     <Label Grid.Row="1" Text="{Binding MealName, StringFormat='Meal Name: {0}'}" FontSize="17" FontAttributes="Bold"/>
                                     <Label Grid.Row="2" Grid.Column="0" Text= "{Binding Protein, StringFormat='Protein: {0}'}" FontSize="17" FontAttributes="Bold"/>
-                                    <Label Grid.Row="3" Grid.Column="1" Text="{Binding Calories, StringFormat='Calories: {0}'}"/>
-                                    <Label Grid.Row="4" Grid.Column="2" Text="{Binding Fat, StringFormat='Fat: {0}'}" FontAttributes="Bold"/>
-                                    <Label Grid.Row="5" Grid.Column="2" Text="{Binding TraDate, StringFormat='Date: {0}'}" FontAttributes="Bold"/>
+                                    <Label Grid.Row="3" Grid.Column="1" Text="{Binding Calories, StringFormat='Calories: {0}'}" FontSize="17" FontAttributes="Bold"/>
+                                    <Label Grid.Row="4" Grid.Column="2" Text="{Binding Fat, StringFormat='Fat: {0}'}" FontSize="17" FontAttributes="Bold"/>
+                                    <Label Grid.Row="5" Grid.Column="2" Text="{Binding TraDate, StringFormat='Date: {0}'}" FontSize="12" FontAttributes="Bold"/>
                                     <Grid>
                                         <Grid.ColumnDefinitions>
                                             <ColumnDefinition Width="Auto"/>

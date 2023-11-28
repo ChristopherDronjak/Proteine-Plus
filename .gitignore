@@ -8,3 +8,6 @@
 *.cache
 *.dll
 *.pdb
+*.v2
+*.bin
+*.vsidx

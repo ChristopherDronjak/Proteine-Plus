@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProteinePlusApp.MVVM.Views.BackAndBiceps"
+             Title="BackAndBiceps">
+    <ScrollView>
+        <VerticalStackLayout>
+            <!--Warmup-->
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Warm-up:"/>
+            <Label Padding="5" Text="5-10 minutes of light cardio (e.g., jogging, jumping jacks) to increase heart rate and warm up your muscles."/>
+            <Label Padding="5" Text="Dynamic stretches for the shoulders, arms, and back."/>
+
+            <!--Back Workout-->
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Back Workout:"/>
+            <Label Padding="5" FontSize="17"  FontAttributes="Bold" Text="Deadlifts:"/>
+            <Label Padding="2" FontSize="13"  Text="4 sets x 8-10 reps"/>
+            <Label Padding="2" FontSize="13"  Text="Focus on proper form, keeping your back straight and engaging your core."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Lat Pulldowns:"/>
+            <Label Padding="2" FontSize="13"  Text="3 sets x 10-12 reps"/>
+            <Label Padding="2" FontSize="13"  Text="Use a wide grip to target the lats."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Barbell Rows:"/>
+            <Label Padding="2" FontSize="13"  Text="3 sets x 10-12 reps"/>
+            <Label Padding="2" FontSize="13"  Text="Keep your back straight and pull the barbell to your lower chest."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Dumbbell Rows:"/>
+            <Label Padding="2" FontSize="13"  Text="3 sets x 12-15 reps per arm"/>
+            <Label Padding="2" FontSize="13"  Text="Support your body on a bench and row the dumbbell with one arm at a time."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Face Pulls (for rear delts and upper back):"/>
+            <Label Padding="2" FontSize="13"  Text="3 sets x 12-15 reps"/>
+            <Label Padding="2" FontSize="13"  Text="Use a cable machine with a rope attachment, pulling towards your face."/>
+
+            <!--Bicep Workout-->
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Biceps Workout:"/>
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Barbell or Dumbbell Curl:"/>
+            <Label Padding="2" FontSize="13"  Text="3 sets x 10-12 reps"/>
+            <Label Padding="2" FontSize="13"  Text="Maintain controlled movements and focus on squeezing your biceps."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Hammer Curls:"/>
+            <Label Padding="2" FontSize="13"  Text="3 sets x 12-15 reps per arm"/>
+            <Label Padding="2" FontSize="13"  Text="Hold dumbbells with a neutral grip (palms facing each other) while curling."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Preacher Curls:"/>
+            <Label Padding="2" FontSize="13"  Text="3 sets x 10-12 reps"/>
+            <Label Padding="2" FontSize="13"  Text="Use a preacher curl bench or an incline bench to isolate the biceps."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Concentration Curls:"/>
+            <Label Padding="2" FontSize="13"  Text="3 sets x 12-15 reps per arm"/>
+            <Label Padding="2" FontSize="13"  Text="Sit on a bench, place your elbow against your inner thigh, and curl the dumbbell."/>
+
+            <!--Cool Down-->
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Cool-down:"/>
+            <Label Padding="2" FontSize="13" Text="5-10 minutes of light cardio (e.g., brisk walking) to gradually decrease heart rate."/>
+            <Label Padding="2" FontSize="13" Text="Static stretches for the back, biceps, and shoulders."/>
+
+            <!--Notes-->
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Notes:"/>
+            <Label Padding="2" FontSize="13"  Text="Adjust the weight according to your fitness level. The last few reps of each set should be challenging but manageable with proper form."/>
+            <Label Padding="2" FontSize="13"  Text="Rest for 60-90 seconds between sets."/>
+            <Label Padding="2" FontSize="13"  Text="Listen to your body, and if you experience pain (not to be confused with the normal discomfort of a workout), stop and consult a professional."/>
+            <Label Padding="2" FontSize="13"  Text="Stay hydrated throughout your workout."/>
+            <Label Padding="2" FontSize="13"  Text="Always consult with a healthcare or fitness professional before starting a new exercise program, especially if you have any pre-existing health conditions."/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

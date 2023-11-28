@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProteinePlusApp.MVVM.Views.ChestAndTriceps"
+             Title="ChestAndTriceps">
+    <ScrollView>
+        <VerticalStackLayout>
+
+            <!--Warm Up-->
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Warm-up:"/>
+            <Label Padding="2" FontSize="13" Text="5-10 minutes of light cardio (e.g., jogging, jumping jacks)."/>
+            <Label Padding="2" FontSize="13" Text="Dynamic stretches for the chest, shoulders, and arms."/>
+
+            <!--Chest Workout-->
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Chest Workout:"/>
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Barbell Bench Press:"/>
+            <Label Padding="2" FontSize="13" Text="4 sets x 8-10 reps"/>
+            <Label Padding="2" FontSize="13" Text="Focus on a full range of motion and control the barbell throughout the movement."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Dumbbell Flyes:"/>
+            <Label Padding="2" FontSize="13" Text="3 sets x 10-12 reps"/>
+            <Label Padding="2" FontSize="13" Text="Use a moderate weight, and focus on the stretch and contraction of the chest."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Incline Dumbbell Press:"/>
+            <Label Padding="2" FontSize="13" Text="3 sets x 10-12 reps"/>
+            <Label Padding="2" FontSize="13" Text="Adjust the bench to a 15-30 degree incline to target the upper chest."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Push-Ups:"/>
+            <Label Padding="2" FontSize="13" Text="3 sets to failure"/>
+            <Label Padding="2" FontSize="13" Text="Perform push-ups with proper form, keeping your body in a straight line."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Chest Dips:"/>
+            <Label Padding="2" FontSize="13" Text="3 sets x 12-15 reps"/>
+            <Label Padding="2" FontSize="13" Text="Use parallel bars or dip station to target the lower chest."/>
+
+            <!--Tricep Workout-->
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Tricep Workout:"/>
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Tricep Dips:"/>
+            <Label Padding="2" FontSize="13" Text="4 sets x 10-12 reps"/>
+            <Label Padding="2" FontSize="13" Text="Keep your body upright to target the triceps more."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Tricep Rope Pushdowns:"/>
+            <Label Padding="2" FontSize="13" Text="3 sets x 12-15 reps"/>
+            <Label Padding="2" FontSize="13" Text="Use a cable machine with a rope attachment and focus on the full extension of the arms."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Overhead Dumbbell Tricep Extension:"/>
+            <Label Padding="2" FontSize="13" Text="3 sets x 10-12 reps"/>
+            <Label Padding="2" FontSize="13" Text="Use a single dumbbell and lower it behind your head, keeping your elbows close to your ears."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Close-Grip Bench Press:"/>
+            <Label Padding="2" FontSize="13" Text="3 sets x 10-12 reps"/>
+            <Label Padding="2" FontSize="13" Text="Use a narrower grip than the regular bench press to target the triceps."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Tricep Kickbacks:"/>
+            <Label Padding="2" FontSize="13" Text="3 sets x 12-15 reps per arm"/>
+            <Label Padding="2" FontSize="13" Text="Use light to moderate dumbbells and focus on extending the arm fully."/>
+
+
+            <!--Cool Down-->
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Cool-down:"/>
+            <Label Padding="2" FontSize="13" Text="5-10 minutes of light cardio (e.g., brisk walking) to gradually decrease heart rate."/>
+            <Label Padding="2" FontSize="13" Text="Static stretches for the chest, triceps, shoulders, and arms."/>
+
+
+            <!--Notes-->
+                <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Notes:"/>
+                <Label Padding="2" FontSize="13"  Text="Adjust the weight according to your fitness level. The last few reps of each set should be challenging but manageable with proper form."/>
+                <Label Padding="2" FontSize="13"  Text="Rest for 60-90 seconds between sets."/>
+                <Label Padding="2" FontSize="13"  Text="Listen to your body, and if you experience pain (not to be confused with the normal discomfort of a workout), stop and consult a professional."/>
+                <Label Padding="2" FontSize="13"  Text="Stay hydrated throughout your workout."/>
+                <Label Padding="2" FontSize="13"  Text="Always consult with a healthcare or fitness professional before starting a new exercise program, especially if you have any pre-existing health conditions."/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

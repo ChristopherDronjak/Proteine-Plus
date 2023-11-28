@@ -10,13 +10,8 @@
         <Label Text="Welcome to Proteine Plus" HorizontalOptions="Center" VerticalOptions="Start" FontSize="Large" Margin="0,0,0,10" Padding="10" FontAttributes="Bold"/>
 
         <Image Source="proteinelogo.png" BackgroundColor="Transparent" HeightRequest="100" WidthRequest="500"/>
-        
-        <Label Text="Daily Summary: " FontSize="Medium" Padding="10" FontAttributes="Bold"/>
-        <Label Text="{Binding Protein}" FontSize="Medium" Padding="10"/>
-        <Label Text="Calories: " FontSize="Medium" Padding="10"/>
-        <Label Text="Fat: " FontSize="Medium" Padding="10"/>
 
-
+        <Button x:Name="templateworkouts" Text="Template Workouts" Clicked="templateworkouts_Clicked" HeightRequest="50"  IsEnabled="True"/>
 
         <Button x:Name="foodintake" Text="Input Calories/Macros" Clicked="Foodintake_Clicked" HeightRequest="50"  IsEnabled="True"/>
 

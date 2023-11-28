@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProteinePlusApp.MVVM.Views.Legs"
+             Title="Legs">
+    <ScrollView>
+        <VerticalStackLayout>
+
+            <!--Warm Up-->
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Warm-up:"/>
+            <Label Padding="2" FontSize="13" Text="5-10 minutes of light cardio (e.g., jogging, jumping jacks)."/>
+            <Label Padding="2" FontSize="13" Text="Dynamic stretches for the legs, including leg swings and lunges."/>
+
+            <!--Leg Workout-->
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Leg Workout:"/>
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Barbell Back Squats:"/>
+            <Label Padding="2" FontSize="13" Text="4 sets x 8-10 reps"/>
+            <Label Padding="2" FontSize="13" Text="Focus on proper form, keeping your back straight and lowering your hips below parallel."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Romanian Deadlifts:"/>
+            <Label Padding="2" FontSize="13" Text="3 sets x 10-12 reps"/>
+            <Label Padding="2" FontSize="13" Text="Targeting the hamstrings and lower back, maintain a slight bend in your knees and hinge at the hips."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Leg Press:"/>
+            <Label Padding="2" FontSize="13" Text="3 sets x 12-15 reps"/>
+            <Label Padding="2" FontSize="13" Text="Adjust the seat and foot placement to target different areas of the legs."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Walking Lunges:"/>
+            <Label Padding="2" FontSize="13" Text="3 sets x 20 steps (10 per leg)"/>
+            <Label Padding="2" FontSize="13" Text="Use bodyweight or hold dumbbells for added resistance."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Leg Extensions:"/>
+            <Label Padding="2" FontSize="13" Text="3 sets x 12-15 reps"/>
+            <Label Padding="2" FontSize="13" Text="Focus on squeezing your quads at the top of the movement."/>
+
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Seated or Standing Calf Raises:"/>
+            <Label Padding="2" FontSize="13" Text="4 sets x 15-20 reps"/>
+            <Label Padding="2" FontSize="13" Text="Use a calf raise machine or a Smith machine for stability."/>
+
+
+            <!--Cool Down-->
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Cool-down:"/>
+            <Label Padding="2" FontSize="13" Text="5-10 minutes of light cardio (e.g., brisk walking) to gradually decrease heart rate."/>
+            <Label Padding="2" FontSize="13" Text="Static stretches for the legs, including the quads, hamstrings, calves, and hip flexors."/>
+
+
+            <!--Notes-->
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Notes:"/>
+            <Label Padding="2" FontSize="13"  Text="Adjust the weight according to your fitness level. The last few reps of each set should be challenging but manageable with proper form."/>
+            <Label Padding="2" FontSize="13"  Text="Rest for 60-90 seconds between sets."/>
+            <Label Padding="2" FontSize="13"  Text="Listen to your body, and if you experience pain (not to be confused with the normal discomfort of a workout), stop and consult a professional."/>
+            <Label Padding="2" FontSize="13"  Text="Stay hydrated throughout your workout."/>
+            <Label Padding="2" FontSize="13"  Text="Always consult with a healthcare or fitness professional before starting a new exercise program, especially if you have any pre-existing health conditions."/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

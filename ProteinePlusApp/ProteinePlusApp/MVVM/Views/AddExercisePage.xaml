@@ -26,12 +26,13 @@
                         <DataTemplate>
                             <ViewCell>
                                 <VerticalStackLayout Padding="5">
-                                    <Label Grid.Row="1" Grid.Column="0" Text="{Binding ExerciseName, StringFormat='Exercise: {0}'}" FontSize="17" FontAttributes="Bold"/>
-                                    <Label Grid.Row="2" Grid.Column="1" Text="{Binding Sets, StringFormat='Sets: {0}'}"/>
-                                    <Label Grid.Row="3" Grid.Column="2" Text="{Binding Reps, StringFormat='Reps: {0}'}" FontAttributes="Bold"/>
-                                    <Label Grid.Row="4" Grid.Column="2" Text="{Binding TraDate, StringFormat='Date: {0}'}" FontAttributes="Bold"/>
+                                    <Label Grid.Row="1"  Text="{Binding ExerciseName, StringFormat='Exercise: {0}'}" FontSize="17" FontAttributes="Bold"/>
+                                    <Label Grid.Row="2" Grid.Column="0" Text="{Binding Sets, StringFormat='Sets: {0}'}" FontSize="17" FontAttributes="Bold"/>
+                                    <Label Grid.Row="3" Grid.Column="1" Text="{Binding Reps, StringFormat='Reps: {0}'}" FontSize="17" FontAttributes="Bold"/>
+                                    <Label Grid.Row="4" Grid.Column="2" Text="{Binding ExcDate, StringFormat='Date: {0}'}" FontSize="12" FontAttributes="Bold"/>
                                     <Grid>
                                         <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="Auto"/>
                                             <ColumnDefinition Width="Auto"/>
                                             <ColumnDefinition Width="Auto"/>
                                             <ColumnDefinition Width="Auto"/>

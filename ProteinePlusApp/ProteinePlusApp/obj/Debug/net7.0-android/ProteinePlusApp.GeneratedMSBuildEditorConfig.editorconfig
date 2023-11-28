@@ -38,11 +38,23 @@ build_metadata.AdditionalFiles.ManifestResourceName = ProteinePlusApp.MVVM.Views
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\AddExercisePage.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\AddExercisePage.xaml
 
+[C:/Users/harra/Desktop/Term 4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/BackAndBiceps.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProteinePlusApp.MVVM.Views.BackAndBiceps.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\BackAndBiceps.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\BackAndBiceps.xaml
+
 [C:/Users/harra/Desktop/Term 4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/CalorieInput.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProteinePlusApp.MVVM.Views.CalorieInput.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\CalorieInput.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\CalorieInput.xaml
+
+[C:/Users/harra/Desktop/Term 4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/ChestAndTriceps.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProteinePlusApp.MVVM.Views.ChestAndTriceps.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\ChestAndTriceps.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\ChestAndTriceps.xaml
 
 [C:/Users/harra/Desktop/Term 4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/FoodIntake.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -55,6 +67,18 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ProteinePlusApp.MVVM.Views.HomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\HomePage.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\HomePage.xaml
+
+[C:/Users/harra/Desktop/Term 4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/Legs.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProteinePlusApp.MVVM.Views.Legs.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\Legs.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\Legs.xaml
+
+[C:/Users/harra/Desktop/Term 4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/TemplateWorkouts.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProteinePlusApp.MVVM.Views.TemplateWorkouts.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\TemplateWorkouts.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\TemplateWorkouts.xaml
 
 [C:/Users/harra/Desktop/Term 4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/ViewExercisePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
