@@ -2,11 +2,54 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ProteinePlusApp.MVVM.Views.SpanishPisto"
-             Title="SpanishPisto">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+             Title="SpanishPisto"
+             BackgroundColor="Beige">
+    <ScrollView>
+        <StackLayout Padding="20">
+
+            <Label Text="Spanish Pisto Recipe" FontSize="Large" HorizontalOptions="Center" Margin="0,0,0,20"/>
+
+            <Image Source="spanishpisto.png" BackgroundColor="Beige" HeightRequest="150" WidthRequest="500"/>
+
+            <Label Text="Ingredients:" FontSize="Medium" Margin="0,20,0,10"/>
+            <Label Text="- 2 tablespoons olive oil"/>
+            <Label Text="- 1 onion, finely chopped"/>
+            <Label Text="- 2 cloves garlic, minced"/>
+            <Label Text="- 2 bell peppers (red and green), diced"/>
+            <Label Text="- 2 medium-sized zucchini, diced"/>
+            <Label Text="- 4 ripe tomatoes, peeled and chopped"/>
+            <Label Text="- Salt and pepper to taste"/>
+            <Label Text="- 1 teaspoon sugar (optional)"/>
+
+            <Label Text="Instructions:" FontSize="Medium" Margin="0,20,0,10"/>
+            <Label Text="1. Prepare the Vegetables:"/>
+            <Label Text="- Heat olive oil in a large skillet or pan over medium heat."/>
+            <Label Text="- Add chopped onions and sauté until translucent."/>
+            <Label Text="- Add minced garlic and sauté for another minute."/>
+            <Label Text="2. Cook the Peppers and Zucchini:"/>
+            <Label Text="- Add diced bell peppers and zucchini to the skillet."/>
+            <Label Text="- Cook until the vegetables are softened but not mushy, stirring occasionally."/>
+            <Label Text="3. Add Tomatoes:"/>
+            <Label Text="- Add the chopped tomatoes to the skillet."/>
+            <Label Text="- Stir well and let it simmer until the tomatoes break down and the mixture thickens."/>
+            <Label Text="4. Season:"/>
+            <Label Text="- Season the mixture with salt and pepper to taste."/>
+            <Label Text="- If the tomatoes are too acidic, add a teaspoon of sugar to balance the flavors."/>
+            <Label Text="5. Simmer:"/>
+            <Label Text="- Let the pisto simmer for about 15-20 minutes, allowing the flavors to meld."/>
+            <Label Text="6. Optional: Add Eggs (Huevos a la Flamenca):"/>
+            <Label Text="- Create small wells in the pisto and crack an egg into each well."/>
+            <Label Text="- Cover the skillet and cook until the eggs are done to your liking."/>
+            <Label Text="7. Serve:"/>
+            <Label Text="- Garnish with chopped fresh parsley."/>
+
+            <Label Text="Macros (Approximate Values for the Entire Recipe):" FontSize="Medium" Margin="0,20,0,10"/>
+            <Label Text="- Calories: Approximately 800-1000 kcal"/>
+            <Label Text="- Protein: 30-40g"/>
+            <Label Text="- Carbohydrates: 60-80g"/>
+            <Label Text="- Fat: 50-60g"/>
+            <Label Text="- Fiber: 15-20g"/>
+
+        </StackLayout>
+    </ScrollView>
 </ContentPage>

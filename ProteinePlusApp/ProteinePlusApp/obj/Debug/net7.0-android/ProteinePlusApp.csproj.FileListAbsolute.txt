@@ -2024,6 +2024,14 @@ C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\
 C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\app_shared_libraries\armeabi-v7a\libxamarin-app.so
 C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
 C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\backandbiceps.jpg
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\chesttriceps.jpg
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\lasagne.jpg
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\legsimage.jpg
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\recipesimage.jpg
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\spanishpisto.jpg
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\wholewheatgarlicbread.jpg
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\workoutsimage.jpg
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-android\ProteinePlusApp.runtimeconfig.json
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-android\ProteinePlusApp.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-android\ProteinePlusApp.pdb
@@ -2057,9 +2065,17 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable-xxxhdpi\dotnet_bot.png
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable-xxxhdpi\splash.png
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\addexerciseimg.jpg
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\backandbiceps.jpg
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\benchpress.jpg
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\chesttriceps.jpg
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\foodintakeimg.jpg
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\lasagne.jpg
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\legsimage.jpg
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\proteinelogo.png
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\recipesimage.jpg
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\spanishpisto.jpg
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\wholewheatgarlicbread.jpg
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\workoutsimage.jpg
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\mipmap-hdpi\appicon.png
@@ -3008,19 +3024,3 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\recipesimage.jpg
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\workoutsimage.jpg
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\backandbiceps.jpg
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\chesttriceps.jpg
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\legsimage.jpg
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\lasagne.jpg
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\spanishpisto.jpg
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\wholewheatgarlicbread.jpg
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\backandbiceps.jpg
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\chesttriceps.jpg
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\lasagne.jpg
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\legsimage.jpg
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\recipesimage.jpg
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\spanishpisto.jpg
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\wholewheatgarlicbread.jpg
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\workoutsimage.jpg

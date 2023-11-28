@@ -2,47 +2,46 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ProteinePlusApp.MVVM.Views.Lasagne"
-             Title="Lasagne">
+             Title="Lasagne"
+             BackgroundColor="Beige">
 
     <ScrollView>
-        <VerticalStackLayout>
-            <!--Ingredients-->
-            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Ingredients:"/>
-            <Label Padding="2" FontSize="13" Text="9 lasagna noodles (cooked according to package instructions)"/>
-            <Label Padding="2" FontSize="13" Text="1 pound (450g) ground beef or Italian sausage"/>
-            <Label Padding="2" FontSize="13" Text="1 onion, finely chopped"/>
-            <Label Padding="2" FontSize="13" Text="3 cloves garlic, minced"/>
-            <Label Padding="2" FontSize="13" Text="1 can (28 ounces) crushed tomatoes"/>
-            <Label Padding="2" FontSize="13" Text="2 cans (6 ounces each) tomato paste"/>
-            <Label Padding="2" FontSize="13" Text="1 can (15 ounces) tomato sauce"/>
-            <Label Padding="2" FontSize="13" Text="1/2 cup water"/>
-            <Label Padding="2" FontSize="13" Text="2 teaspoons sugar"/>
-            <Label Padding="2" FontSize="13" Text="2 teaspoons dried basi"/>
-            <Label Padding="2" FontSize="13" Text="1/2 teaspoon salt (or to taste)"/>
-            <Label Padding="2" FontSize="13" Text="1/4 teaspoon black pepper"/>
-            <Label Padding="2" FontSize="13" Text="3 cups ricotta cheese"/>
-            <Label Padding="2" FontSize="13" Text="1 egg, beaten"/>
-            <Label Padding="2" FontSize="13" Text="3 cups shredded mozzarella cheese"/>
-            <Label Padding="2" FontSize="13" Text="3/4 cup grated Parmesan cheese"/>
-            <Label Padding="2" FontSize="13" Text="2 tablespoons fresh parsley, chopped (optional)"/>
-            <Label Padding="2" FontSize="13" Text="Olive oil for cooking"/>
-            
-            
-            <!--Instructions-->
-            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Instructions:"/>
-            <Label Padding="2" FontSize="13" Text="Preheat your oven to 375°F (190°C)."/>
-            <Label Padding="2" FontSize="13" Text="In a large skillet, heat a bit of olive oil over medium heat. Add the chopped onion and cook until softened. Add the minced garlic and cook for an additional 1-2 minutes."/>
-            <Label Padding="2" FontSize="13" Text="Add the ground beef or Italian sausage to the skillet and cook until browned. Drain excess fat."/>
-            <Label Padding="2" FontSize="13" Text="Stir in the crushed tomatoes, tomato paste, tomato sauce, water, sugar, basil, salt, and black pepper. Simmer the sauce for about 20-30 minutes, stirring occasionally. Adjust seasoning to taste."/>
-            <Label Padding="2" FontSize="13" Text="In a separate bowl, combine the ricotta cheese with the beaten egg."/>
-            <Label Padding="2" FontSize="13" Text="In a lightly greased 9x13-inch baking dish, spread a small amount of the meat sauce to coat the bottom. Place three lasagna noodles on top."/>
-            <Label Padding="2" FontSize="13" Text="Spread half of the ricotta mixture over the noodles, followed by a portion of the meat sauce. Sprinkle a layer of mozzarella and Parmesan cheese over the sauce."/>
-            <Label Padding="2" FontSize="13" Text="Repeat the layers, finishing with a layer of meat sauce and a generous topping of mozzarella and Parmesan cheese."/>
-            <Label Padding="2" FontSize="13" Text="Cover the baking dish with aluminum foil and bake in the preheated oven for 25 minutes. Then, remove the foil and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly."/>
-            <Label Padding="2" FontSize="13" Text="Allow the lasagna to cool for 10-15 minutes before slicing. Garnish with chopped fresh parsley if desired."/>
-            <Label Padding="5" FontSize="13" FontAttributes="Bold" Text="Enjoy your delicious homemade lasagna!"/>
+        <StackLayout Padding="20">
+            <Label Text="Lasagna" FontSize="Large" HorizontalOptions="Center" Margin="0,0,0,20"/>
 
-        </VerticalStackLayout>
+            <Image Source="lasagne.png" BackgroundColor="Beige" HeightRequest="150" WidthRequest="500"/>
+
+            <Label Text="Ingredients:" FontSize="Medium" Margin="0,20,0,10"/>
+            <Label Text="For the meat sauce:"/>
+            <Label Text=" - 1 lb ground beef"/>
+            <Label Text=" - 1 onion, chopped"/>
+            <Label Text=" - 2 cloves garlic, minced"/>
+            <Label Text=" - 1 can (28 oz) crushed tomatoes"/>
+            <Label Text=" - 1 can (6 oz) tomato paste"/>
+            <Label Text="For the cheese layer:"/>
+            <Label Text=" - 2 cups ricotta cheese"/>
+            <Label Text=" - 1 egg"/>
+            <Label Text=" - 1/4 cup fresh parsley, chopped"/>
+
+            <Label Text="Instructions:" FontSize="Medium" Margin="0,20,0,10"/>
+            <Label Text="1. In a large pan, cook the ground beef, onion, and garlic until the meat is browned."/>
+            <Label Text="2. Add crushed tomatoes and tomato paste. Simmer for 15-20 minutes, stirring occasionally."/>
+            <Label Text="3. In a bowl, combine ricotta, egg, and parsley for the cheese layer."/>
+            <Label Text="4. Preheat the oven to 375°F (190°C)."/>
+            <Label Text="5. In a baking dish, spread a layer of meat sauce. Place a layer of lasagna noodles over the sauce."/>
+            <Label Text="6. Add a layer of the ricotta mixture and sprinkle with shredded mozzarella cheese."/>
+            <Label Text="7. Repeat the layers until all ingredients are used, finishing with a layer of meat sauce and mozzarella cheese on top."/>
+            <Label Text="8. Cover the baking dish with aluminum foil and bake for 25-30 minutes."/>
+            <Label Text="9. Remove the foil and bake for an additional 10 minutes until the cheese is bubbly and golden."/>
+            <Label Text="10. Let the lasagna rest for 10 minutes before serving. Enjoy!"/>
+
+            <Label Text="Macronutrient Information (Approximate):" FontSize="Medium" Margin="0,20,0,10"/>
+            <Label Text="Total Calories: 2500"/>
+            <Label Text="Protein: 120g"/>
+            <Label Text="Carbohydrates: 200g"/>
+            <Label Text="Fat: 120g"/>
+
+        </StackLayout>
     </ScrollView>
 
 </ContentPage>

@@ -2,11 +2,36 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ProteinePlusApp.MVVM.Views.WholeWheatGarlicBread"
-             Title="WholeWheatGarlicBread">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+             Title="WholeWheatGarlicBread"
+             BackgroundColor="Beige">
+    <ScrollView>
+        <StackLayout Padding="20">
+
+            <Label Text="Whole Wheat Garlic Bread" FontSize="Large" HorizontalOptions="Center" Margin="0,0,0,20"/>
+
+            <Image Source="wholewheatgarlicbread.jpg" BackgroundColor="Beige" HeightRequest="150" WidthRequest="500"/>
+
+            <Label Text="Ingredients:" FontSize="Medium" Margin="0,20,0,10"/>
+            <Label Text=" - 1 loaf whole wheat bread" />
+            <Label Text=" - 1/2 cup unsalted butter, softened" />
+            <Label Text=" - 3 cloves garlic, minced" />
+            <Label Text=" - 1/4 cup fresh parsley, chopped" />
+
+            <Label Text="Instructions:" FontSize="Medium" Margin="0,20,0,10"/>
+            <Label Text="1. Preheat the oven to 375°F (190°C)." />
+            <Label Text="2. In a small bowl, mix the softened butter, minced garlic, and chopped parsley." />
+            <Label Text="3. Slice the whole wheat bread loaf." />
+            <Label Text="4. Spread the garlic butter mixture on each bread slice." />
+            <Label Text="5. Place the slices on a baking sheet." />
+            <Label Text="6. Bake in the preheated oven for 10-12 minutes or until the edges are golden brown." />
+            <Label Text="7. Serve and enjoy your whole wheat garlic bread!" />
+
+            <Label Text="Macros per serving:" FontSize="Medium" Margin="0,20,0,10"/>
+            <Label Text=" - Calories: 200" />
+            <Label Text=" - Protein: 5g" />
+            <Label Text=" - Carbs: 30g" />
+            <Label Text=" - Fat: 8g" />
+
+        </StackLayout>
+    </ScrollView>
 </ContentPage>
