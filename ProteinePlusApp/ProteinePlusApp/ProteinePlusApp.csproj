@@ -50,10 +50,16 @@
 
 	<ItemGroup>
 	  <None Remove="Resources\Images\addexerciseimg.jpg" />
+	  <None Remove="Resources\Images\backandbiceps.jpg" />
 	  <None Remove="Resources\Images\benchpress.jpg" />
+	  <None Remove="Resources\Images\chesttriceps.jpg" />
 	  <None Remove="Resources\Images\foodintakeimg.jpg" />
+	  <None Remove="Resources\Images\lasagne.jpg" />
+	  <None Remove="Resources\Images\legsimage.jpg" />
 	  <None Remove="Resources\Images\proteinelogo.png" />
 	  <None Remove="Resources\Images\recipesimage.jpg" />
+	  <None Remove="Resources\Images\spanishpisto.jpg" />
+	  <None Remove="Resources\Images\wholewheatgarlicbread.jpg" />
 	  <None Remove="Resources\Images\workoutsimage.jpg" />
 	</ItemGroup>
 

@@ -2,24 +2,46 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ProteinePlusApp.MVVM.Views.TemplateWorkouts"
-             Title="Template Workouts"
+             Title="Recommended Workouts"
              BackgroundColor="Beige">
     
     <VerticalStackLayout>
-        <Label Text="Proteine Plus Template Workouts" HorizontalOptions="Center" VerticalOptions="Start" FontSize="Large" Margin="0,0,0,10" Padding="10" FontAttributes="Bold"/>
+        <Label Text="Proteine Plus Recommended Workouts" HorizontalOptions="Center" VerticalOptions="Start" FontSize="20" Margin="0,0,0,10" Padding="10" FontAttributes="Bold"/>
 
         <Label HorizontalOptions="Center" Padding="5" FontAttributes="Bold" FontSize="15" Text="These workouts consist of Back and Biceps, Chest and triceps, and Legs."/>
 
         <Label HorizontalOptions="Center" Padding="5" FontAttributes="Bold" FontSize="15" Text="For each category Proteine Plus has created a workout for the user to follow along."/>
 
         <Label HorizontalOptions="Center" Padding="5" FontAttributes="Bold" FontSize="15" Text="The users of Proteine Plus are encouraged to test and trial these workouts as everyone has different workout styles and their muscles could be triggered differently."/>
+        <Label HorizontalOptions="Center" Padding="5" FontAttributes="Bold" FontSize="15" Text="__________________________________________________________"/>
 
-        <Button x:Name="backbiceps" Text="Back and Biceps" Clicked="backbiceps_Clicked" HeightRequest="50"  IsEnabled="True"/>
+        <StackLayout Orientation="Horizontal" Padding="5">
+            <Label Text="Back and Biceps:" Margin="15,10,0,0" VerticalOptions="Center" FontSize="Medium" FontAttributes="Bold"/>
+            <Label Text="Chest and Triceps:" Margin="40,10,0,0" VerticalOptions="End" FontSize="Medium" FontAttributes="Bold" />
+        </StackLayout>
 
-        <Button x:Name="chesttriceps" Text="Chest and Triceps" Clicked="chesttriceps_Clicked" HeightRequest="50"  IsEnabled="True"/>
+        <Grid Padding="15">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
 
-        <Button x:Name="legs" Text="Legs" Clicked="legs_Clicked" HeightRequest="50"  IsEnabled="True"/>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
 
+            <ImageButton Source="backandbiceps.jng" x:Name="backbiceps" Clicked="backbiceps_Clicked" 
+                         HeightRequest="100" WidthRequest="150" IsEnabled="True"  Grid.Row="0" Grid.Column="0" />
+
+            <ImageButton Source="chesttriceps.jpg" x:Name="chesttriceps" Clicked="chesttriceps_Clicked"
+                         HeightRequest="100" WidthRequest="150" IsEnabled="True" Grid.Row="0" Grid.Column="1" Margin="60,0,0,0"/>
+
+        </Grid>
+
+        <Label Text="Legs:" Margin="160,0,0,0" VerticalOptions="Center" FontSize="Medium" FontAttributes="Bold" Padding="10"/>
+        <ImageButton Source="legsimage.jpg" x:Name="legs" Clicked="legs_Clicked"
+                     HeightRequest="100" WidthRequest="150" IsEnabled="True" Margin="10,0,0,0"/>
 
     </VerticalStackLayout>
 </ContentPage>

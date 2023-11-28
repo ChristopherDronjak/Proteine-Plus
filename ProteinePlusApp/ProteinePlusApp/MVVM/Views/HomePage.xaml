@@ -29,8 +29,6 @@
                 <ColumnDefinition Width="Auto"/>
             </Grid.ColumnDefinitions>
 
-            <Label Text="Recipes" HorizontalOptions="Center" VerticalOptions="Center" FontSize="Medium" Grid.Row="0" Grid.Column="0" />
-
             <ImageButton Source="recipesimage.png" x:Name="templaterecipes" Clicked="templaterecipes_Clicked" 
                          HeightRequest="100" WidthRequest="150" IsEnabled="True"  Grid.Row="0" Grid.Column="0" />
 
