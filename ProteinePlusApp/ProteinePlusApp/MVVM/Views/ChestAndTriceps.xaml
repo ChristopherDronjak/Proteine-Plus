@@ -18,7 +18,7 @@
             <Label Padding="2" FontSize="13" Text="4 sets x 8-10 reps"/>
             <Label Padding="2" FontSize="13" Text="Focus on a full range of motion and control the barbell throughout the movement."/>
 
-            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Dumbbell Flyes:"/>
+            <Label Padding="5" FontSize="17" FontAttributes="Bold" Text="Dumbbell Flys:"/>
             <Label Padding="2" FontSize="13" Text="3 sets x 10-12 reps"/>
             <Label Padding="2" FontSize="13" Text="Use a moderate weight, and focus on the stretch and contraction of the chest."/>
 
