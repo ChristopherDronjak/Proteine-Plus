@@ -1,1 +1,1 @@
-C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\ProteinePlusApp.csproj;x64
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\ProteinePlusApp.csproj;x64

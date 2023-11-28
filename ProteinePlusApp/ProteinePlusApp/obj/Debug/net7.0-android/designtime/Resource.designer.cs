@@ -8272,16 +8272,22 @@ namespace ProteinePlusApp
 			public const int proteinelogo = 2131165395;
 			
 			// aapt resource value: 0x7F0700D4
-			public const int splash = 2131165396;
+			public const int recipesimage = 2131165396;
 			
 			// aapt resource value: 0x7F0700D5
-			public const int test_level_drawable = 2131165397;
+			public const int splash = 2131165397;
 			
 			// aapt resource value: 0x7F0700D6
-			public const int tooltip_frame_dark = 2131165398;
+			public const int test_level_drawable = 2131165398;
 			
 			// aapt resource value: 0x7F0700D7
-			public const int tooltip_frame_light = 2131165399;
+			public const int tooltip_frame_dark = 2131165399;
+			
+			// aapt resource value: 0x7F0700D8
+			public const int tooltip_frame_light = 2131165400;
+			
+			// aapt resource value: 0x7F0700D9
+			public const int workoutsimage = 2131165401;
 			
 			static Drawable()
 			{

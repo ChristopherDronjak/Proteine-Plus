@@ -53,6 +53,8 @@
 	  <None Remove="Resources\Images\benchpress.jpg" />
 	  <None Remove="Resources\Images\foodintakeimg.jpg" />
 	  <None Remove="Resources\Images\proteinelogo.png" />
+	  <None Remove="Resources\Images\recipesimage.jpg" />
+	  <None Remove="Resources\Images\workoutsimage.jpg" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -69,9 +71,6 @@
 	  <MauiXaml Update="MVVM\Views\BackAndBiceps.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="MVVM\Views\CalorieInput.xaml">
-	    <Generator>MSBuild:Compile</Generator>
-	  </MauiXaml>
 	  <MauiXaml Update="MVVM\Views\ChestAndTriceps.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
@@ -81,13 +80,22 @@
 	  <MauiXaml Update="MVVM\Views\HomePage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="MVVM\Views\Lasagne.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="MVVM\Views\Legs.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="MVVM\Views\SpanishPisto.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="MVVM\Views\TemplateRecipes.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="MVVM\Views\TemplateWorkouts.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="MVVM\Views\ViewExercisePage.xaml">
+	  <MauiXaml Update="MVVM\Views\WholeWheatGarlicBread.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="MVVM\Views\WorkoutCreatePage.xaml">

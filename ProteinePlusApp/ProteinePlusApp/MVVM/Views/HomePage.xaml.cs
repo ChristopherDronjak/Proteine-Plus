@@ -34,4 +34,9 @@ public partial class HomePage : ContentPage
     {
         Navigation.PushAsync(new NavigationPage(new TemplateWorkouts()));
     }
+
+    private void templaterecipes_Clicked(object sender, EventArgs e)
+    {
+        Navigation.PushAsync(new NavigationPage(new TemplateRecipes()));
+    }
 }

@@ -27591,24 +27591,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\harra\\.nuget\\packages\\": {},
+    "C:\\Users\\nzbob\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harra\\Desktop\\Term 4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj",
+      "projectUniqueName": "C:\\Users\\nzbob\\OneDrive\\Desktop\\AppDevT4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj",
       "projectName": "ProteinePlusApp",
-      "projectPath": "C:\\Users\\harra\\Desktop\\Term 4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj",
-      "packagesPath": "C:\\Users\\harra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\harra\\Desktop\\Term 4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\obj\\",
+      "projectPath": "C:\\Users\\nzbob\\OneDrive\\Desktop\\AppDevT4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj",
+      "packagesPath": "C:\\Users\\nzbob\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nzbob\\OneDrive\\Desktop\\AppDevT4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\harra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nzbob\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -10816,10 +10816,12 @@ public final class R {
     public static final int notification_tile_bg=0x7f0700d1;
     public static final int notify_panel_notification_icon_bg=0x7f0700d2;
     public static final int proteinelogo=0x7f0700d3;
-    public static final int splash=0x7f0700d4;
-    public static final int test_level_drawable=0x7f0700d5;
-    public static final int tooltip_frame_dark=0x7f0700d6;
-    public static final int tooltip_frame_light=0x7f0700d7;
+    public static final int recipesimage=0x7f0700d4;
+    public static final int splash=0x7f0700d5;
+    public static final int test_level_drawable=0x7f0700d6;
+    public static final int tooltip_frame_dark=0x7f0700d7;
+    public static final int tooltip_frame_light=0x7f0700d8;
+    public static final int workoutsimage=0x7f0700d9;
   }
   public static final class id {
     public static final int ALT=0x7f080000;
