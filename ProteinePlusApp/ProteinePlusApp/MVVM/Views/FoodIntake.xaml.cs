@@ -10,13 +10,52 @@ public partial class FoodIntake : ContentPage
     private readonly LocalDbService _dbService;
     private int _editTrackerId;
 
+
     public FoodIntake(LocalDbService dbService)
 	{   
         InitializeComponent();
         BindingContext = new FoodIntakeViewModel();
         _dbService = dbService;
         Task.Run(async () => listTrackView.ItemsSource = await App.database.GetTrackers());
+
+        CalculateAndDisplayDailyIntake();
     }
+
+
+    private async void CalculateAndDisplayDailyIntake()
+    {
+        var trackers = await App.database.GetTrackers();
+
+        // Filter trackers for the current date
+        var todayTrackers = trackers.Where(t => t.TraDate.Date == DateTime.Now.Date).ToList();
+
+        // Calculate total intake for the day
+        double totalProtein = 0;
+        double totalCalories = 0;
+        double totalFat = 0;
+
+        foreach (var tracker in todayTrackers)
+        {
+            double protein;
+            double calories;
+            double fat;
+
+            if (double.TryParse(tracker.Protein, out protein))
+                totalProtein += protein;
+
+            if (double.TryParse(tracker.Calories, out calories))
+                totalCalories += calories;
+
+            if (double.TryParse(tracker.Fat, out fat))
+                totalFat += fat;
+        }
+
+        // Display or use the calculated values as needed
+        string message = $"Daily Intake:\nProtein: {totalProtein}g\nCalories: {totalCalories}kcal\nFat: {totalFat}g";
+
+        await DisplayAlert("Daily Intake", message, "OK");
+    }
+
 
     private async void SaveTrackButton_Clicked(object sender, EventArgs e)
     {
@@ -57,6 +96,8 @@ public partial class FoodIntake : ContentPage
         listTrackView.ItemsSource = await App.database.GetTrackers();
     }
 
+
+
     private async void ListTrackView_ItemTapped(object sender, ItemTappedEventArgs e)
     {
         var tracker = (Tracker)e.Item;
@@ -81,5 +122,14 @@ public partial class FoodIntake : ContentPage
                 listTrackView.ItemsSource = await App.database.GetTrackers();
                 break;
         }
+    }
+
+    private async void DailyIntake_Clicked(object sender, EventArgs e)
+    {
+
+        listTrackView.ItemsSource = await App.database.GetTrackers();
+
+        // Call the function to calculate and display daily intake
+        CalculateAndDisplayDailyIntake();
     }
 }

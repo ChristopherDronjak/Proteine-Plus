@@ -7,8 +7,11 @@
     <ScrollView>
         <VerticalStackLayout>
             <Label Text="Food Intake" HorizontalOptions="CenterAndExpand" FontSize="Large" />
-            <Image Source="foodintakeimg.jpg" BackgroundColor="Transparent" HeightRequest="170" WidthRequest="750"/>
-            
+            <Image Source="foodintakeimg.jpg" BackgroundColor="Transparent" HeightRequest="170" WidthRequest="750" Margin="10"/>
+
+
+            <Button Padding="10" x:Name="DailyIntake" Clicked="DailyIntake_Clicked" FontAttributes="Bold" FontSize="20" Text="VIEW DAILY INTAKE"/>
+
             <FlexLayout Direction="Column">
                 <VerticalStackLayout Padding="10" FlexLayout.Basis="600">
                     <Entry x:Name="mealnameEntryField" Placeholder="Meal Name"/>
