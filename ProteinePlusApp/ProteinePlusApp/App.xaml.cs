@@ -12,6 +12,7 @@ namespace ProteinePlusApp
 
         public App()
         {
+            InitializeComponent();
             var authService = new AuthService(new LoginDbContext()); // You may need to adjust this based on your actual setup
             var loginViewModel = new LoginViewModel();
             var dbContext = new LoginDbContext();

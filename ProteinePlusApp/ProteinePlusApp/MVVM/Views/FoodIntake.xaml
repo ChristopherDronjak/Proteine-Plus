@@ -10,7 +10,7 @@
             <Image Source="foodintakeimg.jpg" BackgroundColor="Transparent" HeightRequest="170" WidthRequest="750" Margin="10"/>
 
 
-            <Button Padding="10" x:Name="DailyIntake" Clicked="DailyIntake_Clicked" FontAttributes="Bold" FontSize="20" Text="VIEW DAILY INTAKE"/>
+            <Button Padding="10" x:Name="DailyIntake" Clicked="DailyIntake_Clicked" FontAttributes="Bold" FontSize="20" Text="VIEW DAILY INTAKE" BackgroundColor="DimGrey"/>
 
             <FlexLayout Direction="Column">
                 <VerticalStackLayout Padding="10" FlexLayout.Basis="600">
@@ -19,7 +19,7 @@
                     <Entry x:Name="caloriesEntryField" Placeholder="Calories (kcal)"/>
                     <Entry x:Name="fatEntryField" Placeholder="Fat (g)"/>
                     <DatePicker x:Name="tradateEntryField"/>
-                    <Button x:Name="saveTrackButton" Text="Save Meal" Clicked="SaveTrackButton_Clicked"/>
+                    <Button x:Name="saveTrackButton" Text="Save Meal" Clicked="SaveTrackButton_Clicked" BackgroundColor="DimGrey"/>
 
                 </VerticalStackLayout>
                 
