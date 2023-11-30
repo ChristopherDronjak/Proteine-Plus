@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\harra\\Desktop\\Term 4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj": {}
+    "C:\\Users\\nzbob\\OneDrive\\Desktop\\AppDevT4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\harra\\Desktop\\Term 4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj": {
+    "C:\\Users\\nzbob\\OneDrive\\Desktop\\AppDevT4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harra\\Desktop\\Term 4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj",
+        "projectUniqueName": "C:\\Users\\nzbob\\OneDrive\\Desktop\\AppDevT4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj",
         "projectName": "ProteinePlusApp",
-        "projectPath": "C:\\Users\\harra\\Desktop\\Term 4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj",
-        "packagesPath": "C:\\Users\\harra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harra\\Desktop\\Term 4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\obj\\",
+        "projectPath": "C:\\Users\\nzbob\\OneDrive\\Desktop\\AppDevT4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj",
+        "packagesPath": "C:\\Users\\nzbob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nzbob\\OneDrive\\Desktop\\AppDevT4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\harra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nzbob\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -64,6 +64,18 @@
             "CommunityToolkit.Mvvm": {
               "target": "Package",
               "version": "[8.2.2, )"
+            },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -143,6 +155,10 @@
               "version": "[1.1.0-alpha03, )",
               "autoReferenced": true
             },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.8.0, )"
+            },
             "Xamarin.Google.Android.Material": {
               "target": "Package",
               "version": "[1.7.0, )",
@@ -195,6 +211,18 @@
               "target": "Package",
               "version": "[8.2.2, )"
             },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )",
@@ -227,6 +255,10 @@
             "SQLitePCLRaw.bundle_green": {
               "target": "Package",
               "version": "[2.1.7, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.8.0, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",
@@ -270,6 +302,18 @@
               "target": "Package",
               "version": "[8.2.2, )"
             },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )",
@@ -302,6 +346,10 @@
             "SQLitePCLRaw.bundle_green": {
               "target": "Package",
               "version": "[2.1.7, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.8.0, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",
@@ -346,6 +394,18 @@
               "target": "Package",
               "version": "[8.2.2, )"
             },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )",
@@ -388,6 +448,10 @@
             "SQLitePCLRaw.bundle_green": {
               "target": "Package",
               "version": "[2.1.7, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.8.0, )"
             },
             "sqlite-net-pcl": {
               "target": "Package",

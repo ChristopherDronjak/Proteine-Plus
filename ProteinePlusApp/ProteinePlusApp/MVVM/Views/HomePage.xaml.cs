@@ -1,18 +1,26 @@
 using ProteinePlusApp;
+using ProteinePlusApp.MVVM.ViewModels;
 using SQLite;
 using System.Diagnostics;
+using ProteinePlusApp.Services;
 
 namespace ProteinePlusApp.MVVM.Views;
 
 public partial class HomePage : ContentPage
 {
+    private readonly AuthService _authService;
     public readonly LocalDbService _dbService;
     public LocalDbService dbService;
+    private readonly LoginViewModel _loginViewModel;
+    private readonly int _userId;
 
-    public HomePage()
+    public HomePage(AuthService authService, LoginViewModel loginViewModel, int userId)
 	{
 		InitializeComponent();
+        _authService = authService;
         _dbService = dbService;
+        _loginViewModel = loginViewModel;
+        _userId = userId;
     }
 
     private void Foodintake_Clicked(object sender, EventArgs e)
