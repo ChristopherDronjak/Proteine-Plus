@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>56665324-8cd8-4039-91af-5718938be41f</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>2C18236A0F1F7FA80C7510397674CE97D543D7F721C2E2A334EEC1C2FBA9BA44</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>56665324-8cd8-4039-91af-5718938be41f_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>56665324-8cd8-4039-91af-5718938be41f_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,32 +27,32 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-20T03:44:44.784</Modified>
+      <Modified>2023-11-30T00:33:58.668</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-20T03:44:44.510</Modified>
+      <Modified>2023-11-30T00:33:58.400</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ProteinePlusApp.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ProteinePlusApp.runtimeconfig.json">
       <PackagePath>ProteinePlusApp.runtimeconfig.json</PackagePath>
-      <Modified>2023-11-20T03:44:44.203</Modified>
+      <Modified>2023-11-30T00:33:58.121</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ProteinePlusApp.dll">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ProteinePlusApp.dll">
       <PackagePath>ProteinePlusApp.dll</PackagePath>
-      <Modified>2023-11-20T03:44:42.820</Modified>
+      <Modified>2023-11-30T00:33:56.665</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ProteinePlusApp.exe</PackagePath>
-      <Modified>2023-11-20T03:44:42.846</Modified>
+      <Modified>2023-11-30T00:33:56.673</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ProteinePlusApp.deps.json">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ProteinePlusApp.deps.json">
       <PackagePath>ProteinePlusApp.deps.json</PackagePath>
-      <Modified>2023-11-20T03:44:44.107</Modified>
+      <Modified>2023-11-30T00:33:58.009</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nzbob\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.11\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -810,6 +810,10 @@
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2023-06-09T20:10:26.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nzbob\.nuget\packages\communitytoolkit.mvvm\8.2.2\lib\net6.0\CommunityToolkit.Mvvm.dll">
+      <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
+      <Modified>2023-10-24T20:16:06.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nzbob\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
       <Modified>2022-10-18T16:15:22.000</Modified>
@@ -914,6 +918,22 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2022-11-08T19:31:22.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nzbob\.nuget\packages\sqlite-net-pcl\1.8.116\lib\netstandard2.0\SQLite-net.dll">
+      <PackagePath>SQLite-net.dll</PackagePath>
+      <Modified>2021-09-02T21:04:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nzbob\.nuget\packages\sqlitepclraw.bundle_green\2.1.7\lib\netstandard2.0\SQLitePCLRaw.batteries_v2.dll">
+      <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
+      <Modified>2023-11-22T15:40:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nzbob\.nuget\packages\sqlitepclraw.core\2.1.7\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+      <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
+      <Modified>2023-11-22T15:38:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nzbob\.nuget\packages\sqlitepclraw.provider.e_sqlite3\2.1.7\lib\net6.0-windows7.0\SQLitePCLRaw.provider.e_sqlite3.dll">
+      <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
+      <Modified>2023-11-22T15:38:50.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\nzbob\.nuget\packages\microsoft.graphics.win2d\1.0.5.1\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
       <Modified>2023-05-31T20:12:36.000</Modified>
@@ -921,6 +941,10 @@
     <AppxPackagedFile Include="C:\Users\nzbob\.nuget\packages\microsoft.windowsappsdk\1.2.221209.1\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-11-08T19:31:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nzbob\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.1.7\runtimes\win-x64\native\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2023-11-22T15:35:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.92\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -934,241 +958,289 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-06-30T03:50:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-11-20T02:49:49.840</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.335</Modified>
+      <Modified>2023-11-28T09:33:26.830</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.360</Modified>
+      <Modified>2023-11-28T09:33:26.830</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.396</Modified>
+      <Modified>2023-11-28T09:33:26.830</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.443</Modified>
+      <Modified>2023-11-28T09:33:26.831</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.609</Modified>
+      <Modified>2023-11-28T09:33:26.831</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2023-11-20T02:49:49.838</Modified>
+      <Modified>2023-11-28T09:33:26.828</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2023-11-20T02:49:49.839</Modified>
+      <Modified>2023-11-28T09:33:26.829</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\addexerciseimg.scale-100.jpg">
+      <PackagePath>addexerciseimg.scale-100.jpg</PackagePath>
+      <Modified>2023-11-22T02:29:53.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-11-20T02:50:26.705</Modified>
+      <Modified>2023-11-28T08:34:59.830</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-11-20T02:50:27.095</Modified>
+      <Modified>2023-11-28T08:35:00.067</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-11-20T02:50:27.111</Modified>
+      <Modified>2023-11-28T08:35:00.078</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-11-20T02:50:27.124</Modified>
+      <Modified>2023-11-28T08:35:00.088</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-11-20T02:50:27.147</Modified>
+      <Modified>2023-11-28T08:35:00.100</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-11-20T02:50:27.228</Modified>
+      <Modified>2023-11-28T08:35:00.151</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.829</Modified>
+      <Modified>2023-11-28T08:34:59.905</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.836</Modified>
+      <Modified>2023-11-28T08:34:59.909</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.858</Modified>
+      <Modified>2023-11-28T08:34:59.923</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.841</Modified>
+      <Modified>2023-11-28T08:34:59.912</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.847</Modified>
+      <Modified>2023-11-28T08:34:59.915</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.791</Modified>
+      <Modified>2023-11-28T08:34:59.884</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.797</Modified>
+      <Modified>2023-11-28T08:34:59.887</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.825</Modified>
+      <Modified>2023-11-28T08:34:59.901</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.803</Modified>
+      <Modified>2023-11-28T08:34:59.891</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.810</Modified>
+      <Modified>2023-11-28T08:34:59.895</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.727</Modified>
+      <Modified>2023-11-28T08:34:59.842</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.732</Modified>
+      <Modified>2023-11-28T08:34:59.846</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.739</Modified>
+      <Modified>2023-11-28T08:34:59.850</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.744</Modified>
+      <Modified>2023-11-28T08:34:59.854</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.752</Modified>
+      <Modified>2023-11-28T08:34:59.860</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.757</Modified>
+      <Modified>2023-11-28T08:34:59.862</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.763</Modified>
+      <Modified>2023-11-28T08:34:59.865</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.786</Modified>
+      <Modified>2023-11-28T08:34:59.880</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.769</Modified>
+      <Modified>2023-11-28T08:34:59.870</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.774</Modified>
+      <Modified>2023-11-28T08:34:59.874</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.933</Modified>
+      <Modified>2023-11-28T08:34:59.970</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.942</Modified>
+      <Modified>2023-11-28T08:34:59.975</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.951</Modified>
+      <Modified>2023-11-28T08:34:59.981</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.965</Modified>
+      <Modified>2023-11-28T08:34:59.987</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.989</Modified>
+      <Modified>2023-11-28T08:35:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.895</Modified>
+      <Modified>2023-11-28T08:34:59.948</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.901</Modified>
+      <Modified>2023-11-28T08:34:59.951</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.907</Modified>
+      <Modified>2023-11-28T08:34:59.955</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.914</Modified>
+      <Modified>2023-11-28T08:34:59.959</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.927</Modified>
+      <Modified>2023-11-28T08:34:59.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.863</Modified>
+      <Modified>2023-11-28T08:34:59.927</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.868</Modified>
+      <Modified>2023-11-28T08:34:59.931</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.874</Modified>
+      <Modified>2023-11-28T08:34:59.935</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.881</Modified>
+      <Modified>2023-11-28T08:34:59.938</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.890</Modified>
+      <Modified>2023-11-28T08:34:59.944</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.998</Modified>
+      <Modified>2023-11-28T08:35:00.005</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-11-20T02:50:27.008</Modified>
+      <Modified>2023-11-28T08:35:00.013</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-11-20T02:50:27.020</Modified>
+      <Modified>2023-11-28T08:35:00.021</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-11-20T02:50:27.039</Modified>
+      <Modified>2023-11-28T08:35:00.032</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-11-20T02:50:27.083</Modified>
+      <Modified>2023-11-28T08:35:00.059</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\backandbiceps.scale-100.jpg">
+      <PackagePath>backandbiceps.scale-100.jpg</PackagePath>
+      <Modified>2023-11-28T06:58:30.429</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\benchpress.scale-100.jpg">
+      <PackagePath>benchpress.scale-100.jpg</PackagePath>
+      <Modified>2023-11-22T02:21:29.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\chesttriceps.scale-100.jpg">
+      <PackagePath>chesttriceps.scale-100.jpg</PackagePath>
+      <Modified>2023-11-28T06:58:30.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.790</Modified>
+      <Modified>2023-11-28T08:34:59.863</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.806</Modified>
+      <Modified>2023-11-28T08:34:59.872</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.832</Modified>
+      <Modified>2023-11-28T08:34:59.884</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.861</Modified>
+      <Modified>2023-11-28T08:34:59.902</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\nzbob\source\repos\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-11-20T02:50:26.923</Modified>
+      <Modified>2023-11-28T08:34:59.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\foodintakeimg.scale-100.jpg">
+      <PackagePath>foodintakeimg.scale-100.jpg</PackagePath>
+      <Modified>2023-11-22T01:06:03.707</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\lasagne.scale-100.jpg">
+      <PackagePath>lasagne.scale-100.jpg</PackagePath>
+      <Modified>2023-11-28T06:58:30.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\legsimage.scale-100.jpg">
+      <PackagePath>legsimage.scale-100.jpg</PackagePath>
+      <Modified>2023-11-28T06:58:30.431</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\proteinelogo.scale-100.png">
+      <PackagePath>proteinelogo.scale-100.png</PackagePath>
+      <Modified>2023-10-09T22:52:25.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\recipesimage.scale-100.jpg">
+      <PackagePath>recipesimage.scale-100.jpg</PackagePath>
+      <Modified>2023-11-28T06:14:54.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\spanishpisto.scale-100.jpg">
+      <PackagePath>spanishpisto.scale-100.jpg</PackagePath>
+      <Modified>2023-11-28T06:58:30.431</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\wholewheatgarlicbread.scale-100.jpg">
+      <PackagePath>wholewheatgarlicbread.scale-100.jpg</PackagePath>
+      <Modified>2023-11-28T06:58:30.431</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\workoutsimage.scale-100.jpg">
+      <PackagePath>workoutsimage.scale-100.jpg</PackagePath>
+      <Modified>2023-11-28T06:14:54.410</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

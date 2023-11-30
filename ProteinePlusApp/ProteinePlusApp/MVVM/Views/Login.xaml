@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProteinePlusApp.MVVM.Views.Login"
+             Title="Login"
+             BackgroundColor="Beige">
+    
+    <StackLayout Padding="5" VerticalOptions="StartAndExpand">
+
+        <Image Source="proteinelogo.png" WidthRequest="350" Margin="0,40,0,0"/>
+
+        <Entry x:Name="UsernameEntry" Placeholder="Username" Text="{Binding Username}" />
+        <Entry x:Name="PasswordEntry" Placeholder="Password" IsPassword="True" Text="{Binding Password}" />
+
+        <Button x:Name="login" Text="Login" Clicked="login_Clicked" Margin="5"/>
+        <Button x:Name="register" Text="Register with us today!" Clicked="register_Clicked" Margin="10"/>
+    </StackLayout>
+</ContentPage>
