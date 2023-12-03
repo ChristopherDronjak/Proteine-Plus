@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProteinePlusApp.MVVM.Models
 {
+    //used to gather users Username and password and assign them an ID
     public class Users
     {
         public int Id { get; set; }

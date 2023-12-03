@@ -6,17 +6,20 @@ namespace ProteinePlusApp
 {
     public static class MauiProgram
     {
+        //building application
         public static MauiApp CreateMauiApp()
         {
             var builder = MauiApp.CreateBuilder();
             builder
                 .UseMauiApp<App>()
+                //getting font for PROTEINE PLUS
                 .ConfigureFonts(fonts =>
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
 
+            //generating main pages
             builder.Services.AddSingleton<LocalDbService>();
             builder.Services.AddTransient<AddExercisePage>();
             builder.Services.AddSingleton<WorkoutViewModel>();

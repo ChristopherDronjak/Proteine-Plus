@@ -7,10 +7,11 @@
 
     <ScrollView>
         <StackLayout Padding="20">
+            <!--title and image for recipe-->
             <Label Text="Lasagna" FontSize="Large" HorizontalOptions="Center" Margin="0,0,0,20"/>
-
             <Image Source="lasagne.png" BackgroundColor="Beige" HeightRequest="150" WidthRequest="500"/>
-
+            
+            <!--ingredients for recipe-->
             <Label Text="Ingredients:" FontSize="Medium" Margin="0,20,0,10"/>
             <Label Text="For the meat sauce:"/>
             <Label Text=" - 1 lb ground beef"/>
@@ -23,6 +24,7 @@
             <Label Text=" - 1 egg"/>
             <Label Text=" - 1/4 cup fresh parsley, chopped"/>
 
+            <!--instructions for recipe-->
             <Label Text="Instructions:" FontSize="Medium" Margin="0,20,0,10"/>
             <Label Text="1. In a large pan, cook the ground beef, onion, and garlic until the meat is browned."/>
             <Label Text="2. Add crushed tomatoes and tomato paste. Simmer for 15-20 minutes, stirring occasionally."/>
@@ -35,6 +37,7 @@
             <Label Text="9. Remove the foil and bake for an additional 10 minutes until the cheese is bubbly and golden."/>
             <Label Text="10. Let the lasagna rest for 10 minutes before serving. Enjoy!"/>
 
+            <!--macros for recipe-->
             <Label Text="Macronutrient Information (Approximate):" FontSize="Medium" Margin="0,20,0,10"/>
             <Label Text="Total Calories: 2500"/>
             <Label Text="Protein: 120g"/>

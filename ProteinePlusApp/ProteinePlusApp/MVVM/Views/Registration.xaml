@@ -7,12 +7,17 @@
 
     <StackLayout Padding="5" VerticalOptions="StartAndExpand">
 
- 
+        <!--PROTEINE LOGO-->
         <Image Source="proteinelogo.png" WidthRequest="350" Margin="0,40,0,0"/>
-
+       
+        <!--gathering the users new login and password-->
         <Entry Placeholder="Username" Text="{Binding Username}"/>
         <Entry Placeholder="Password" IsPassword="True" Text="{Binding Password}" />
+        
+        <!--confirming the registration-->
         <Button x:Name="registerconfirm" Text="Register" Clicked="registerconfirm_Clicked" />
+        
+        <!--allows user to return to login page so they can use their newly created account-->
         <Button x:Name="returnlogin" Text="Login to Proteine Plus!" Clicked="returnlogin_Clicked" Margin="10" />
     </StackLayout>
 </ContentPage>

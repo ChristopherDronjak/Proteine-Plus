@@ -7,10 +7,11 @@
     <ScrollView>
         <StackLayout Padding="20">
 
+            <!--title and image for recipe-->
             <Label Text="Spanish Pisto Recipe" FontSize="Large" HorizontalOptions="Center" Margin="0,0,0,20"/>
-
             <Image Source="spanishpisto.png" BackgroundColor="Beige" HeightRequest="150" WidthRequest="500"/>
 
+            <!--ingredients for recipe-->
             <Label Text="Ingredients:" FontSize="Medium" Margin="0,20,0,10"/>
             <Label Text="- 2 tablespoons olive oil"/>
             <Label Text="- 1 onion, finely chopped"/>
@@ -21,6 +22,7 @@
             <Label Text="- Salt and pepper to taste"/>
             <Label Text="- 1 teaspoon sugar (optional)"/>
 
+            <!--instructions for recipe-->
             <Label Text="Instructions:" FontSize="Medium" Margin="0,20,0,10"/>
             <Label Text="1. Prepare the Vegetables:"/>
             <Label Text="- Heat olive oil in a large skillet or pan over medium heat."/>
@@ -43,6 +45,7 @@
             <Label Text="7. Serve:"/>
             <Label Text="- Garnish with chopped fresh parsley."/>
 
+            <!--macros for recipe-->
             <Label Text="Macros (Approximate Values for the Entire Recipe):" FontSize="Medium" Margin="0,20,0,10"/>
             <Label Text="- Calories: Approximately 800-1000 kcal"/>
             <Label Text="- Protein: 30-40g"/>

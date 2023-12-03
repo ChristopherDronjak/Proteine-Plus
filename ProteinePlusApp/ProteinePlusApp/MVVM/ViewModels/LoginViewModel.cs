@@ -13,11 +13,13 @@ namespace ProteinePlusApp.MVVM.ViewModels
     {
         private Users _user;
 
+        //define Users from _user
         public LoginViewModel()
         {
             _user = new Users();
         }
 
+        //gets the users Username and checks to make sure it is correct
         public string Username
         {
             get { return _user.Username; }
@@ -31,6 +33,7 @@ namespace ProteinePlusApp.MVVM.ViewModels
             }
         }
 
+        //gets the users passwords and checks to make sure it is correct
         public string Password
         {
             get { return _user.Password; }
@@ -43,7 +46,8 @@ namespace ProteinePlusApp.MVVM.ViewModels
                 }
             }
         }
-
+        
+        //calling the signup command and the login command
         public ICommand SignupCommand { get; set; }
         public ICommand BackToLoginCommand { get; set; }
 

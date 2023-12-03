@@ -6,12 +6,16 @@
              BackgroundColor="Beige">
     <ScrollView>
         <VerticalStackLayout>
+            <!--title for page-->
             <Label Text="Food Intake" HorizontalOptions="CenterAndExpand" FontSize="Large" />
+
+            <!--image for design and user enjoyment-->
             <Image Source="foodintakeimg.jpg" BackgroundColor="Transparent" HeightRequest="170" WidthRequest="750" Margin="10"/>
 
 
             <Button Padding="10" x:Name="DailyIntake" Clicked="DailyIntake_Clicked" FontAttributes="Bold" FontSize="20" Text="VIEW DAILY INTAKE" BackgroundColor="DimGrey"/>
 
+            <!--Input for user to fill out their Meal name, Protein, Calories, Fat and date-->
             <FlexLayout Direction="Column">
                 <VerticalStackLayout Padding="10" FlexLayout.Basis="600">
                     <Entry x:Name="mealnameEntryField" Placeholder="Meal Name"/>
@@ -19,14 +23,18 @@
                     <Entry x:Name="caloriesEntryField" Placeholder="Calories (kcal)"/>
                     <Entry x:Name="fatEntryField" Placeholder="Fat (g)"/>
                     <DatePicker x:Name="tradateEntryField"/>
+                    
+                    <!--saving the data the user inputted into the database-->
                     <Button x:Name="saveTrackButton" Text="Save Meal" Clicked="SaveTrackButton_Clicked" BackgroundColor="DimGrey"/>
 
                 </VerticalStackLayout>
-                
+
+                <!--links the user input to the backend of the App and displays the log under the save button in a grid using a listview and grids-->
                 <ListView x:Name="listTrackView" FlexLayout.Grow="1" HasUnevenRows="True" ItemTapped="ListTrackView_ItemTapped">
                     <ListView.ItemTemplate>
                         <DataTemplate>
                             <ViewCell>
+                                <!--binds the backend and entry fields above to the newly logged Meals-->
                                 <VerticalStackLayout Padding="5">
                                     <Label Grid.Row="1" Text="{Binding MealName, StringFormat='Meal Name: {0}'}" FontSize="17" FontAttributes="Bold"/>
                                     <Label Grid.Row="2" Grid.Column="0" Text= "{Binding Protein, StringFormat='Protein: {0}'}" FontSize="17" FontAttributes="Bold"/>
@@ -34,6 +42,8 @@
                                     <Label Grid.Row="4" Grid.Column="2" Text="{Binding Fat, StringFormat='Fat: {0}'}" FontSize="17" FontAttributes="Bold"/>
                                     <Label Grid.Row="5" Grid.Column="2" Text="{Binding TraDate, StringFormat='Date: {0}'}" FontSize="17" FontAttributes="Bold"/>
                                     <Grid>
+                                        
+                                        <!--makes sure the width fits the users mobile application-->
                                         <Grid.ColumnDefinitions>
                                             <ColumnDefinition Width="Auto"/>
                                             <ColumnDefinition Width="Auto"/>

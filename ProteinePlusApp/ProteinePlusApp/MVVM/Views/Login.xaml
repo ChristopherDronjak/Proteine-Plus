@@ -7,12 +7,17 @@
     
     <StackLayout Padding="5" VerticalOptions="StartAndExpand">
 
+        <!--PROTEINE LOGO-->
         <Image Source="proteinelogo.png" WidthRequest="350" Margin="0,40,0,0"/>
-
+        
+        <!--Enter Username and password created on Registration page by the user-->
         <Entry x:Name="UsernameEntry" Placeholder="Username" Text="{Binding Username}" />
         <Entry x:Name="PasswordEntry" Placeholder="Password" IsPassword="True" Text="{Binding Password}" />
 
+        <!--using login to log into the App, this makes the application more secure-->
         <Button x:Name="login" Text="Login" Clicked="login_Clicked" Margin="5"/>
+        
+        <!--Register with Proteine Plus if you dont already have an account-->
         <Button x:Name="register" Text="Register with us today!" Clicked="register_Clicked" Margin="10"/>
     </StackLayout>
 </ContentPage>

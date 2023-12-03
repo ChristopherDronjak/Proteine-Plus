@@ -7,30 +7,40 @@
 
     <ScrollView>
         <VerticalStackLayout Padding="20">
+            <!--title for page-->
             <Label Text="Add Exercise" FontSize="Title" FontAttributes="Bold" HorizontalOptions="Center" Padding="15" />
 
+            <!--image for design and user enjoyment-->
             <Image Source="addexerciseimg.jpg" BackgroundColor="Transparent" HeightRequest="170" WidthRequest="750"/>
 
+            <!--brief description of the feature-->
             <Label Text="Enter the name of you exercise and then you can also add how many sets you do and how many reps per set." Padding="15"/>
             <FlexLayout Direction="Column">
-
+                
+                <!--Input for user to fill out their Exercise name, sets, reps and date-->
                 <VerticalStackLayout Padding="10" FlexLayout.Basis="500">
                     <Entry x:Name="nameEntryField" Placeholder="Name"/>
                     <Entry x:Name="setsEntryField" Placeholder="Sets"/>
                     <Entry x:Name="repsEntryField" Placeholder="Reps"/>
                     <DatePicker x:Name="excdateEntryField"/>
+                    
+                    <!--saving the data the user inputted into the database-->
                     <Button x:Name="saveButton" Text="Save" Clicked="SaveButton_Clicked"/>
+
+                    <!--links the user input to the backend of the App and displays the log under the save button in a grid using a listview and grids-->
                 </VerticalStackLayout>
                 <ListView x:Name="listView" FlexLayout.Grow="1" HasUnevenRows="True" ItemTapped="ListView_ItemTapped">
                     <ListView.ItemTemplate>
                         <DataTemplate>
                             <ViewCell>
+                                <!--binds the backend and entry fields above to the newly logged exercise-->
                                 <VerticalStackLayout Padding="5">
                                     <Label Grid.Row="1"  Text="{Binding ExerciseName, StringFormat='Exercise: {0}'}" FontSize="17" FontAttributes="Bold"/>
                                     <Label Grid.Row="2" Grid.Column="0" Text="{Binding Sets, StringFormat='Sets: {0}'}" FontSize="17" FontAttributes="Bold"/>
                                     <Label Grid.Row="3" Grid.Column="1" Text="{Binding Reps, StringFormat='Reps: {0}'}" FontSize="17" FontAttributes="Bold"/>
                                     <Label Grid.Row="4" Grid.Column="2" Text="{Binding ExcDate, StringFormat='Date: {0}'}" FontSize="12" FontAttributes="Bold"/>
                                     <Grid>
+                                        <!--makes sure the width fits the users mobile application-->
                                         <Grid.ColumnDefinitions>
                                             <ColumnDefinition Width="Auto"/>
                                             <ColumnDefinition Width="Auto"/>

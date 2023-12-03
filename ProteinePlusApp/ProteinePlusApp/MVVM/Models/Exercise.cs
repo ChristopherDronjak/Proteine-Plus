@@ -4,6 +4,7 @@ using ProteinePlusApp.MVVM.Views;
 namespace ProteinePlusApp.MVVM.Models
 {
     [Table("exercise")]
+    //Used to gather the users input in the Add exercise page, this table collects the exercise name, reps, sets, date completed and assigns the workout an ID
     public class Exercise
     {
         [PrimaryKey]

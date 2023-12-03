@@ -56,10 +56,10 @@ public partial class FoodIntake : ContentPage
         await DisplayAlert("Daily Intake", message, "OK");
     }
 
-
+    //Save Meals button
     private async void SaveTrackButton_Clicked(object sender, EventArgs e)
     {
-
+        //generating a new meal if not editing a meal
         if (_editTrackerId == 0)
         {
             await App.database.Create(new Tracker
@@ -71,6 +71,7 @@ public partial class FoodIntake : ContentPage
                 TraDate = tradateEntryField.Date
             });
         }
+        //updating meal
         else
         {
             await App.database.Update(new Tracker
@@ -86,6 +87,7 @@ public partial class FoodIntake : ContentPage
 
             _editTrackerId = 0;
         }
+        //emptying the textboxes so user doesnt have to
 
         mealnameEntryField.Text = string.Empty;
         proteinEntryField.Text = string.Empty;
@@ -97,7 +99,7 @@ public partial class FoodIntake : ContentPage
     }
 
 
-
+    //when meal is clicked/tapped there is a popup for editing and deleting
     private async void ListTrackView_ItemTapped(object sender, ItemTappedEventArgs e)
     {
         var tracker = (Tracker)e.Item;
@@ -105,6 +107,7 @@ public partial class FoodIntake : ContentPage
 
         switch (action)
         {
+            //editing the meal in database
             case "Edit":
 
                 _editTrackerId = tracker.TrackId;
@@ -116,7 +119,7 @@ public partial class FoodIntake : ContentPage
 
 
                 break;
-
+                //deleting the meal from databasse
             case "Delete":
                 await App.database.Delete(tracker);
                 listTrackView.ItemsSource = await App.database.GetTrackers();
@@ -129,7 +132,7 @@ public partial class FoodIntake : ContentPage
 
         listTrackView.ItemsSource = await App.database.GetTrackers();
 
-        // Call the function to calculate and display daily intake
+        // Call the function to display daily intake
         CalculateAndDisplayDailyIntake();
     }
 }

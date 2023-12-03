@@ -9,6 +9,7 @@ namespace ProteinePlusApp
         private const string DB_NAME = "proteinedata_local_db.db3";
         private readonly SQLiteAsyncConnection _connection;
 
+        //creating table 
         public LocalDbService()
         {
             _connection = new SQLiteAsyncConnection(Path.Combine(FileSystem.AppDataDirectory, DB_NAME));
@@ -17,6 +18,7 @@ namespace ProteinePlusApp
 
         }
 
+        //ensuring table exists for exercise and food intake
         public async Task<List<Exercise>> GetExercises()
         {
             return await _connection.Table<Exercise>().ToListAsync();
@@ -28,7 +30,7 @@ namespace ProteinePlusApp
         }
 
 
-
+        //gathering ID for food intake and exercises
         public async Task<Exercise> GetById(int id)
         {
             return await _connection.Table<Exercise>().Where(x => x.Id == id).FirstOrDefaultAsync();
@@ -39,7 +41,7 @@ namespace ProteinePlusApp
             return await _connection.Table<Tracker>().Where(x => x.TrackId == trackid).FirstOrDefaultAsync();
         }
 
-
+        //insertion function for exercise and food intake into the database
         public async Task Create(Exercise exercise)
         {
             await _connection.InsertAsync(exercise);
@@ -51,7 +53,7 @@ namespace ProteinePlusApp
         }
 
 
-
+        //updating data in the database for the exercises and food intake
         public async Task Update(Exercise exercise)
         {
             await _connection.UpdateAsync(exercise);
@@ -63,7 +65,7 @@ namespace ProteinePlusApp
         }
 
 
-
+        //deleting data from the database for exercises and food intake
         public async Task Delete(Exercise exercise)
         {
             await _connection.DeleteAsync(exercise);
@@ -76,7 +78,7 @@ namespace ProteinePlusApp
 
 
 
-
+        //saving new data into the database for exercises
         public async Task<int> SaveCategoryAsync(Exercise exercise)
         {
             if (exercise.Id != 0)
@@ -89,7 +91,7 @@ namespace ProteinePlusApp
             }
         }
 
-
+        //saving new data into the database for food intake
         public async Task<int> SaveCategoryAsync(Tracker tracker)
         {
             if (tracker.TrackId != 0)

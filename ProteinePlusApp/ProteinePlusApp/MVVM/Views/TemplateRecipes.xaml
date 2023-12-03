@@ -6,20 +6,23 @@
              BackgroundColor="Beige">
 
     <VerticalStackLayout>
+        <!--title for page-->
         <Label Text="Proteine Plus Recommended Recipes" HorizontalOptions="Center" VerticalOptions="Start" FontSize="20" Margin="0,0,0,10" Padding="10" FontAttributes="Bold"/>
 
+        <!--brief description of feature-->
         <Label HorizontalOptions="Center" Padding="5" FontAttributes="Bold" FontSize="15" Text="These recipes are some basic and easy to make recipes to get you started with calories!"/>
-
         <Label HorizontalOptions="Center" Padding="5" FontAttributes="Bold" FontSize="15" Text="Below are 3 recipes with all calories/macros recorded complete with an ingrediants list and how to make the specific dish"/>
-
         <Label HorizontalOptions="Center" Padding="5" FontAttributes="Bold" FontSize="15" Text="Proteine Plus users are encouraged to give these recipes a go if they are not experienced with calories and macro tracking and these meals can give you somewhere to start :)"/>
         <Label HorizontalOptions="Center" Padding="5" FontAttributes="Bold" FontSize="15" Text="__________________________________________________________"/>
 
+
+        <!--titles for the image buttons-->
         <StackLayout Orientation="Horizontal" Padding="5">
             <Label Text="Spanish Pisto:" Margin="15,10,0,0" VerticalOptions="Center" FontSize="Medium" FontAttributes="Bold"/>
             <Label Text="Lasagne:" Margin="140,10,0,0" VerticalOptions="End" FontSize="Medium" FontAttributes="Bold" />
         </StackLayout>
 
+        <!--making sure the grid is correctly done-->
         <Grid Padding="15">
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"/>
@@ -31,6 +34,7 @@
                 <ColumnDefinition Width="Auto"/>
             </Grid.ColumnDefinitions>
 
+            <!--image buttons for user experience-->
             <ImageButton Source="spanishpisto.jpg" x:Name="spanishpisto" Clicked="spanishpisto_Clicked" 
                          HeightRequest="120" WidthRequest="160" IsEnabled="True"  Grid.Row="0" Grid.Column="0" />
 
@@ -39,28 +43,9 @@
 
         </Grid>
 
+        <!--label and image button for the bottom recipe-->
         <Label Text="Whole Wheat Garlic Bread:" Margin="95,0,0,0" VerticalOptions="Center" FontSize="Medium" FontAttributes="Bold" Padding="10"/>
         <ImageButton Source="wholewheatgarlicbread.jpg" x:Name="wholewheatgarlicbread" Clicked="wholewheatgarlicbread_Clicked"
                      HeightRequest="125" WidthRequest="150" IsEnabled="True" Margin="10,0,0,0"/>
-
-
-
-
-
-
-        <!--<Label Text="Proteine Plus Template Workouts" HorizontalOptions="Center" VerticalOptions="Start" FontSize="Large" Margin="0,0,0,10" Padding="10" FontAttributes="Bold"/>
-
-        <Label HorizontalOptions="Center" Padding="5" FontAttributes="Bold" FontSize="15" Text="These workouts consist of Back and Biceps, Chest and triceps, and Legs."/>
-
-        <Label HorizontalOptions="Center" Padding="5" FontAttributes="Bold" FontSize="15" Text="For each category Proteine Plus has created a workout for the user to follow along."/>
-
-        <Label HorizontalOptions="Center" Padding="5" FontAttributes="Bold" FontSize="15" Text="The users of Proteine Plus are encouraged to test and trial these workouts as everyone has different workout styles and their muscles could be triggered differently."/>
-
-        <Button x:Name="spanishpisto" Text="Spanish Pisto" Clicked="spanishpisto_Clicked" HeightRequest="50"  IsEnabled="True"/>
-
-        <Button x:Name="lasagne" Text="Lasagne" Clicked="lasagne_Clicked" HeightRequest="50"  IsEnabled="True"/>
-
-        <Button x:Name="wholewheatgarlicbread" Text="Whole Wheat Garlic Bread" Clicked="wholewheatgarlicbread_Clicked" HeightRequest="50"  IsEnabled="True"/>-->
-
     </VerticalStackLayout>
 </ContentPage>

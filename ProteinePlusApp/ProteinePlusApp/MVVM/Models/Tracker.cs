@@ -4,6 +4,8 @@ using ProteinePlusApp.MVVM.Views;
 namespace ProteinePlusApp.MVVM.Models
 {
     [Table("tracker")]
+    //Used to gather the users input in the Food Intake page, this table collects the Meal name, protein, calorie and fat intake along with the date the users selects.
+    // assigns the meal an ID
     public class Tracker
     {
         [PrimaryKey]
