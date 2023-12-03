@@ -1956,6 +1956,19 @@ C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\
 C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\spanishpisto.jpg
 C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\wholewheatgarlicbread.jpg
 C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\r\drawable\workoutsimage.jpg
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\mscorlib.dll
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Collections.Concurrent.dll
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Data.Common.dll
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Data.dll
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Diagnostics.StackTrace.dll
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Diagnostics.TraceSource.dll
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.dll
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Private.CoreLib.dll
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Private.Uri.dll
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.dll
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Extensions.dll
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Formatters.dll
+C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Xml.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-android\ProteinePlusApp.runtimeconfig.json
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-android\ProteinePlusApp.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-android\ProteinePlusApp.pdb
@@ -2023,19 +2036,27 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\res.flag
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\3E4017757CC97BD9-files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\resizetizer\D05A8838A97C2DE2-files.cache
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\80\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\93\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\94\jl\files.cache
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\95\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\98\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\99\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\100\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\101\jl\files.cache
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\102\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\104\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\105\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\106\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\107\jl\files.cache
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\108\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\112\jl\files.cache
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\113\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\115\jl\files.cache
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\116\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\119\jl\files.cache
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\120\jl\files.cache
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\122\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\124\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\125\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\126\jl\files.cache
@@ -2044,6 +2065,7 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\129\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\130\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\131\jl\files.cache
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\132\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\133\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\135\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\136\jl\files.cache
@@ -2055,10 +2077,14 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\142\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\143\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\144\jl\files.cache
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\145\jl\files.cache
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\146\jl\files.cache
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\152\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\154\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\155\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\156\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\157\jl\files.cache
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\158\jl\files.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\R.txt
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\R.cs.flag
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\ProteinePlusApp.GeneratedMSBuildEditorConfig.editorconfig
@@ -2083,10 +2109,18 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Java.Interop.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Java.Interop.pdb
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.CSharp.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.Data.Sqlite.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.EntityFrameworkCore.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.Configuration.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.DependencyModel.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.Logging.Debug.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.Logging.dll
@@ -2112,6 +2146,7 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Mono.Android.Export.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Mono.Android.Export.pdb
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Mono.Android.pdb
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\mscorlib.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\netstandard.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\ProteinePlusApp.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\ProteinePlusApp.pdb
@@ -2122,6 +2157,7 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.AppContext.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Buffers.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Collections.Concurrent.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Collections.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Collections.Immutable.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Collections.NonGeneric.dll
@@ -2135,15 +2171,20 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Configuration.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Console.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Core.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Data.Common.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Data.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Diagnostics.Contracts.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Diagnostics.Debug.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Diagnostics.DiagnosticSource.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Diagnostics.FileVersionInfo.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Diagnostics.Process.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Diagnostics.StackTrace.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Diagnostics.TextWriterTraceListener.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Diagnostics.Tools.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Diagnostics.TraceSource.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Diagnostics.Tracing.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Drawing.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Drawing.Primitives.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Dynamic.Runtime.dll
@@ -2194,7 +2235,9 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Numerics.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Numerics.Vectors.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.ObjectModel.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Private.CoreLib.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Private.DataContractSerialization.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Private.Uri.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Private.Xml.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Private.Xml.Linq.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Reflection.DispatchProxy.dll
@@ -2211,6 +2254,8 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Resources.Writer.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Extensions.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Handles.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.InteropServices.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.InteropServices.JavaScript.dll
@@ -2219,6 +2264,7 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Loader.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Numerics.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Formatters.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Json.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Primitives.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Xml.dll
@@ -2260,6 +2306,7 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Web.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Web.HttpUtility.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Windows.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Xml.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Xml.Linq.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Xml.ReaderWriter.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Xml.Serialization.dll
@@ -2407,6 +2454,8 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Xamarin.AndroidX.ViewPager2.pdb
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Xamarin.AndroidX.Window.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Xamarin.AndroidX.Window.pdb
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Xamarin.Essentials.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Xamarin.Essentials.pdb
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Xamarin.Google.Android.Material.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Xamarin.Google.Android.Material.pdb
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Xamarin.Google.Crypto.Tink.Android.dll
@@ -2767,6 +2816,24 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc6493855b22b6fa0721\TextToSpeechInternalImplementation.java
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc649ff77a65592e7d55\TabbedPageManager_Listeners.java
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc649ff77a65592e7d55\TabbedPageManager_TempView.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\Connectivity_EssentialsNetworkCallback.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
@@ -2905,6 +2972,7 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\xamarin\essentials\fileProvider.java
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\bin\packaged_resources
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\com\companyname\proteineplusapp\R.java
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\compressed_assemblies.x86_64.ll
@@ -2923,71 +2991,6 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\mscorlib.dll
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Collections.Concurrent.dll
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Data.Common.dll
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Data.dll
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Diagnostics.StackTrace.dll
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Diagnostics.TraceSource.dll
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.dll
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Private.CoreLib.dll
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Private.Uri.dll
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.dll
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Extensions.dll
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Formatters.dll
-C:\Users\harra\Desktop\Term 4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Xml.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\80\jl\files.cache
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\95\jl\files.cache
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\102\jl\files.cache
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\108\jl\files.cache
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\113\jl\files.cache
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\116\jl\files.cache
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\120\jl\files.cache
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\122\jl\files.cache
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\132\jl\files.cache
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\145\jl\files.cache
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\146\jl\files.cache
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\152\jl\files.cache
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\lp\158\jl\files.cache
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.Data.Sqlite.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.EntityFrameworkCore.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Microsoft.Extensions.DependencyModel.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Xamarin.Essentials.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Xamarin.Essentials.pdb
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\Connectivity_EssentialsNetworkCallback.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\Listener.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\src\xamarin\essentials\fileProvider.java
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\mscorlib.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Collections.Concurrent.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Data.Common.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Data.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Diagnostics.StackTrace.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Diagnostics.TraceSource.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Private.CoreLib.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Private.Uri.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Extensions.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Formatters.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Xml.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Castle.Core.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\Moq.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-android\android\assets\System.Diagnostics.EventLog.dll

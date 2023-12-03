@@ -1,0 +1,13 @@
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0\ProteinePlusApp.deps.json
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0\ProteinePlusApp.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0\ProteinePlusApp.pdb
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0\ProteinePlusApp.csproj.AssemblyReference.cache
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0\ProteinePlusApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0\ProteinePlusApp.AssemblyInfoInputs.cache
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0\ProteinePlusApp.AssemblyInfo.cs
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0\ProteinePlusApp.csproj.CoreCompileInputs.cache
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0\XamlC.stamp
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0\ProteinePlusApp.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0\refint\ProteinePlusApp.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0\ProteinePlusApp.pdb
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0\ref\ProteinePlusApp.dll

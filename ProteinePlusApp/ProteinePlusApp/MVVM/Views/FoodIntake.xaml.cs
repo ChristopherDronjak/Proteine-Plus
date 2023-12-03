@@ -57,7 +57,7 @@ public partial class FoodIntake : ContentPage
     }
 
 
-    private async void SaveTrackButton_Clicked(object sender, EventArgs e)
+    public async void SaveTrackButton_Clicked(object sender, EventArgs e)
     {
 
         if (_editTrackerId == 0)

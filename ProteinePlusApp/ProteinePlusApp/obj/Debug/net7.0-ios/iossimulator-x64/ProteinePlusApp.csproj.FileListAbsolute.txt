@@ -272,10 +272,18 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\ProteinePlusApp.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\ProteinePlusApp.pdb
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\CommunityToolkit.Mvvm.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Data.Sqlite.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyModel.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Debug.dll
@@ -285,7 +293,10 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\SQLite-net.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\SQLitePCLRaw.batteries_v2.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\SQLitePCLRaw.core.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\SQLitePCLRaw.lib.e_sqlite3.ios.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\SQLitePCLRaw.provider.internal.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\SQLitePCLRaw.provider.sqlite3.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Xamarin.Essentials.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.CSharp.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.VisualBasic.Core.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.VisualBasic.dll
@@ -492,7 +503,6 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.a
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.inputs
@@ -555,3 +565,6 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-ios\iossimulator-x64\ProteinePlusApp.pdb
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-ios\iossimulator-x64\ProteinePlusApp.genruntimeconfig.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\obj\Debug\net7.0-ios\iossimulator-x64\ref\ProteinePlusApp.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Castle.Core.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\Moq.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.EventLog.dll

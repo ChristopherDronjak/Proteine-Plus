@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YvMQs/rYtbXJvzZD9pF+yjDMEleDAabKqOh5XJnk0RfBvh53VtQSHBhlZ/iau28Pu8k5ihwTPa0ySVbIDDQKng==",
+  "dgSpecHash": "BN/IXSUDuEl1SoCqcIkGi78u3bQGOp5yBm2HtZoSTZORuHfRsfixcTSXPEdgqt9Tt7evpJKzdbISqzfRB0wNKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\nzbob\\OneDrive\\Desktop\\AppDevT4\\Proteine-Plus\\ProteinePlusApp\\ProteinePlusApp\\ProteinePlusApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\nzbob\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\nzbob\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\nzbob\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\nzbob\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.0\\microsoft.data.sqlite.core.8.0.0.nupkg.sha512",
@@ -30,6 +31,7 @@
     "C:\\Users\\nzbob\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\7.0.92\\microsoft.maui.graphics.win2d.winui.desktop.7.0.92.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
     "C:\\Users\\nzbob\\.nuget\\packages\\microsoft.windowsappsdk\\1.2.221209.1\\microsoft.windowsappsdk.1.2.221209.1.nupkg.sha512",
+    "C:\\Users\\nzbob\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
     "C:\\Users\\nzbob\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
     "C:\\Users\\nzbob\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.2\\sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
     "C:\\Users\\nzbob\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.1.7\\sqlitepclraw.bundle_green.2.1.7.nupkg.sha512",
@@ -41,6 +43,7 @@
     "C:\\Users\\nzbob\\.nuget\\packages\\sqlitepclraw.provider.internal\\2.1.2\\sqlitepclraw.provider.internal.2.1.2.nupkg.sha512",
     "C:\\Users\\nzbob\\.nuget\\packages\\sqlitepclraw.provider.sqlite3\\2.1.7\\sqlitepclraw.provider.sqlite3.2.1.7.nupkg.sha512",
     "C:\\Users\\nzbob\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\nzbob\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\nzbob\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\nzbob\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\nzbob\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",

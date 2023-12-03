@@ -10,7 +10,6 @@ public partial class Login : ContentPage
 {
     private readonly AuthService _authService;
     private readonly LoginViewModel _loginViewModel;
-    private int UserId;
 
     public Login(AuthService authService, LoginViewModel loginViewModel)
     { 
