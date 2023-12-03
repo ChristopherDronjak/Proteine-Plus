@@ -7,7 +7,6 @@ public partial class TemplateWorkouts : ContentPage
 		InitializeComponent();
 	}
 
-    //navigation to the template workouts
     private void backbiceps_Clicked(object sender, EventArgs e)
     {
         Navigation.PushAsync(new NavigationPage(new BackAndBiceps()));

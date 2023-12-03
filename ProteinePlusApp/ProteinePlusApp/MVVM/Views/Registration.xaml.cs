@@ -19,7 +19,6 @@ public partial class Registration : ContentPage
 
     private async void registerconfirm_Clicked(object sender, EventArgs e)
     {
-        //required fields
         try
         {
             if (string.IsNullOrWhiteSpace(_viewModel.Username) || string.IsNullOrWhiteSpace(_viewModel.Password))
@@ -28,7 +27,6 @@ public partial class Registration : ContentPage
                 return;
             }
 
-            //successful signup
             string result = _authService.Signup(_viewModel.Username, _viewModel.Password);
             await DisplayAlert("Signup Result", result, "OK");
 
@@ -36,20 +34,17 @@ public partial class Registration : ContentPage
             {
                 await Navigation.PushAsync(new Login(_authService, _viewModel));
             }
-            //unsiccessful signup
             else
             {
                 await DisplayAlert("Signup Error", result, "OK");
             }
         }
-        //error occured
         catch (Exception ex)
         {
             await DisplayAlert("Error", $"An error occurred: {ex.Message}", "OK");
         }
     }
 
-    //links page to the login page for users to log into the application on
     private async void returnlogin_Clicked(object sender, EventArgs e)
     {
         await Navigation.PushAsync(new Login(_authService, _viewModel));

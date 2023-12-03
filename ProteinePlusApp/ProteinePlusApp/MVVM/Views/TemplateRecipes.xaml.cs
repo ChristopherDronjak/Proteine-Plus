@@ -7,7 +7,6 @@ public partial class TemplateRecipes : ContentPage
 		InitializeComponent();
 	}
 
-    //navigation to the template recipies
     private void spanishpisto_Clicked(object sender, EventArgs e)
     {
         Navigation.PushAsync(new NavigationPage(new SpanishPisto()));

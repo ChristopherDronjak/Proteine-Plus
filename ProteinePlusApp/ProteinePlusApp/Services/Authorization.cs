@@ -36,7 +36,6 @@ namespace ProteinePlusApp.Services
             _dbContext.Database.EnsureCreated(); // Create the database if it doesn't exist
         }
 
-        //validating that the users login and password is correct
         public string Login(string username, string password)
         {
             var user = _dbContext.Users.FirstOrDefault(u => u.Username == username && u.Password == password);
@@ -49,7 +48,6 @@ namespace ProteinePlusApp.Services
             return "Invalid username or password";
         }
 
-        //validating that the user doesnt already exist when signing up
         public string Signup(string username, string password)
         {
             if (_dbContext.Users.Any(u => u.Username == username))
@@ -63,7 +61,6 @@ namespace ProteinePlusApp.Services
             return "Signup successful";
         }
 
-        //password reset function
         public string ResetPassword(string username, string newPassword)
         {
             var user = _dbContext.Users.FirstOrDefault(u => u.Username == username);
@@ -78,7 +75,6 @@ namespace ProteinePlusApp.Services
             return "User not found";
         }
 
-        //changes the password
         public bool ChangePassword(string username, string currentPassword, string newPassword)
         {
             var user = _dbContext.Users.FirstOrDefault(u => u.Username == username && u.Password == currentPassword);
@@ -93,13 +89,11 @@ namespace ProteinePlusApp.Services
             return false;
         }
 
-        //checking if the user exists
         public bool UserExists(string username)
         {
             return _dbContext.Users.Any(u => u.Username == username);
         }
 
-        //logging the user out
         public void Logout()
         {
             Xamarin.Essentials.SecureStorage.Remove("AuthToken");
