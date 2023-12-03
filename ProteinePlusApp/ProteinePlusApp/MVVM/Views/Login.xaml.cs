@@ -8,6 +8,7 @@ namespace ProteinePlusApp.MVVM.Views;
 
 public partial class Login : ContentPage
 {
+    //linking database
     private readonly AuthService _authService;
     private readonly LoginViewModel _loginViewModel;
 
@@ -34,6 +35,7 @@ public partial class Login : ContentPage
 
                 var viewModel = (LoginViewModel)BindingContext;
 
+                //required fields
                 if (string.IsNullOrWhiteSpace(viewModel.Username) || string.IsNullOrWhiteSpace(viewModel.Password))
                 {
                     await DisplayAlert("Error", "Username and password are required fields.", "OK");
@@ -59,6 +61,7 @@ public partial class Login : ContentPage
             }
         }
     }
+    //links button to the registration page for new users
 
     private async void register_Clicked(object sender, EventArgs e)
     {

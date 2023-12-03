@@ -6,10 +6,9 @@ namespace ProteinePlusApp.MVVM.Views;
 
 public partial class FoodIntake : ContentPage
 {
-
+    //linking the database
     private readonly LocalDbService _dbService;
     private int _editTrackerId;
-
 
     public FoodIntake(LocalDbService dbService)
 	{   
@@ -21,7 +20,7 @@ public partial class FoodIntake : ContentPage
         CalculateAndDisplayDailyIntake();
     }
 
-
+    //calculating and displaying the daily intake
     private async void CalculateAndDisplayDailyIntake()
     {
         var trackers = await App.database.GetTrackers();
@@ -34,6 +33,7 @@ public partial class FoodIntake : ContentPage
         double totalCalories = 0;
         double totalFat = 0;
 
+        //gathering all the trackers in food intake for the day
         foreach (var tracker in todayTrackers)
         {
             double protein;
