@@ -18,6 +18,6 @@
         <Button x:Name="registerconfirm" Text="Register" Clicked="registerconfirm_Clicked" />
         
         <!--allows user to return to login page so they can use their newly created account-->
-        <Button x:Name="returnlogin" Text="Login to Proteine Plus!" Clicked="returnlogin_Clicked" Margin="10" />
+        <Button x:Name="returnlogin" Text="Login to Proteine Plus!" Clicked="returnlogin_Clicked" Margin="0,10,0,0"/>
     </StackLayout>
 </ContentPage>

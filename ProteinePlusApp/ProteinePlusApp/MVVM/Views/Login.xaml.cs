@@ -36,12 +36,12 @@ public partial class Login : ContentPage
 
                 if (string.IsNullOrWhiteSpace(viewModel.Username) || string.IsNullOrWhiteSpace(viewModel.Password))
                 {
-                    await DisplayAlert("Error", "Username and password are required fields.", "OK");
+                    await DisplayAlert("Error", "You must fill all fields.", "OK");
                     return;
                 }
 
                 string result = _authService.Login(viewModel.Username, viewModel.Password);
-                await DisplayAlert("Login Result", result, "OK");
+                await DisplayAlert("Logged in ", result, "OK");
 
                 // Assuming you want to navigate to the next page after a successful login
                 if (result == "Login successful")

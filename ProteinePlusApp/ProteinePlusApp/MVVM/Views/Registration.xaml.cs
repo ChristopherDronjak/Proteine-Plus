@@ -23,12 +23,12 @@ public partial class Registration : ContentPage
         {
             if (string.IsNullOrWhiteSpace(_viewModel.Username) || string.IsNullOrWhiteSpace(_viewModel.Password))
             {
-                await DisplayAlert("Error", "Username and password are required fields.", "OK");
+                await DisplayAlert("Error", "You must fill all fields.", "OK");
                 return;
             }
 
             string result = _authService.Signup(_viewModel.Username, _viewModel.Password);
-            await DisplayAlert("Signup Result", result, "OK");
+            await DisplayAlert("Registered", result, "OK");
 
             if (result == "Signup successful")
             {
@@ -36,12 +36,12 @@ public partial class Registration : ContentPage
             }
             else
             {
-                await DisplayAlert("Signup Error", result, "OK");
+                await DisplayAlert("Register Error", result, "OK");
             }
         }
         catch (Exception ex)
         {
-            await DisplayAlert("Error", $"An error occurred: {ex.Message}", "OK");
+            await DisplayAlert("Error", $"An error has happened: {ex.Message}", "OK");
         }
     }
 

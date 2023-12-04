@@ -15,9 +15,9 @@
         <Entry x:Name="PasswordEntry" Placeholder="Password" IsPassword="True" Text="{Binding Password}" />
 
         <!--using login to log into the App, this makes the application more secure-->
-        <Button x:Name="login" Text="Login" Clicked="login_Clicked" Margin="5"/>
+        <Button x:Name="login" Text="Login" Clicked="login_Clicked" />
         
         <!--Register with Proteine Plus if you dont already have an account-->
-        <Button x:Name="register" Text="Register with us today!" Clicked="register_Clicked" Margin="10"/>
+        <Button x:Name="register" Text="Register with us today!" Clicked="register_Clicked" Margin="0,10,0,0"/>
     </StackLayout>
 </ContentPage>

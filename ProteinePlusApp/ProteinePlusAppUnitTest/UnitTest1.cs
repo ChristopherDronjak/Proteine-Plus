@@ -1,14 +1,4 @@
 using ProteinePlusApp.MVVM.ViewModels;
-using ProteinePlusApp.Services;
-using ProteinePlusUnitTest;
-using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-using Moq;
-using Xunit;
-using ProteinePlusApp;
-using ProteinePlusApp.MVVM.Views;
-using ProteinePlusApp.MVVM.Models;
 
 namespace ProteinePlusUnitTest
 {
