@@ -11,9 +11,15 @@ build_property.RootNamespace = ProteinePlusApp
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\nzbob\OneDrive\Documents\GitHub\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\
 
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/App.xaml]
+=======
+build_property.ProjectDir = C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\
+
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/App.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 build_property.ProjectDir = C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusApp\
 
@@ -37,7 +43,11 @@ build_metadata.AdditionalFiles.RelativePath = App.xaml
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/AppShell.xaml]
+=======
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/AppShell.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 [C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/AppShell.xaml]
 >>>>>>> parent of fd54624 (commented everything)
@@ -55,7 +65,11 @@ build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MainPage.xaml]
+=======
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MainPage.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 [C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MainPage.xaml]
 >>>>>>> parent of fd54624 (commented everything)
@@ -73,7 +87,11 @@ build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/AddExercisePage.xaml]
+=======
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/AddExercisePage.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 [C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/AddExercisePage.xaml]
 >>>>>>> parent of fd54624 (commented everything)
@@ -91,7 +109,11 @@ build_metadata.AdditionalFiles.RelativePath = MVVM\Views\AddExercisePage.xaml
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/BackAndBiceps.xaml]
+=======
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/BackAndBiceps.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 [C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/BackAndBiceps.xaml]
 >>>>>>> parent of fd54624 (commented everything)
@@ -109,7 +131,11 @@ build_metadata.AdditionalFiles.RelativePath = MVVM\Views\BackAndBiceps.xaml
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/ChestAndTriceps.xaml]
+=======
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/ChestAndTriceps.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 [C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/ChestAndTriceps.xaml]
 >>>>>>> parent of fd54624 (commented everything)
@@ -127,7 +153,11 @@ build_metadata.AdditionalFiles.RelativePath = MVVM\Views\ChestAndTriceps.xaml
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/FoodIntake.xaml]
+=======
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/FoodIntake.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 [C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/FoodIntake.xaml]
 >>>>>>> parent of fd54624 (commented everything)
@@ -145,7 +175,11 @@ build_metadata.AdditionalFiles.RelativePath = MVVM\Views\FoodIntake.xaml
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/HomePage.xaml]
+=======
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/HomePage.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 [C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/HomePage.xaml]
 >>>>>>> parent of fd54624 (commented everything)
@@ -163,7 +197,11 @@ build_metadata.AdditionalFiles.RelativePath = MVVM\Views\HomePage.xaml
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/Lasagne.xaml]
+=======
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/Lasagne.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 [C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/Lasagne.xaml]
 >>>>>>> parent of fd54624 (commented everything)
@@ -181,7 +219,11 @@ build_metadata.AdditionalFiles.RelativePath = MVVM\Views\Lasagne.xaml
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/Legs.xaml]
+=======
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/Legs.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 [C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/Legs.xaml]
 >>>>>>> parent of fd54624 (commented everything)
@@ -199,7 +241,11 @@ build_metadata.AdditionalFiles.RelativePath = MVVM\Views\Legs.xaml
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/Login.xaml]
+=======
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/Login.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 [C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/Login.xaml]
 >>>>>>> parent of fd54624 (commented everything)
@@ -217,7 +263,11 @@ build_metadata.AdditionalFiles.RelativePath = MVVM\Views\Login.xaml
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/Registration.xaml]
+=======
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/Registration.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 [C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/Registration.xaml]
 >>>>>>> parent of fd54624 (commented everything)
@@ -235,7 +285,11 @@ build_metadata.AdditionalFiles.RelativePath = MVVM\Views\Registration.xaml
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/SpanishPisto.xaml]
+=======
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/SpanishPisto.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 [C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/SpanishPisto.xaml]
 >>>>>>> parent of fd54624 (commented everything)
@@ -253,7 +307,11 @@ build_metadata.AdditionalFiles.RelativePath = MVVM\Views\SpanishPisto.xaml
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/TemplateRecipes.xaml]
+=======
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/TemplateRecipes.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 [C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/TemplateRecipes.xaml]
 >>>>>>> parent of fd54624 (commented everything)
@@ -271,7 +329,11 @@ build_metadata.AdditionalFiles.RelativePath = MVVM\Views\TemplateRecipes.xaml
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/TemplateWorkouts.xaml]
+=======
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/TemplateWorkouts.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 [C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/TemplateWorkouts.xaml]
 >>>>>>> parent of fd54624 (commented everything)
@@ -289,7 +351,11 @@ build_metadata.AdditionalFiles.RelativePath = MVVM\Views\TemplateWorkouts.xaml
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/WholeWheatGarlicBread.xaml]
+=======
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/WholeWheatGarlicBread.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 [C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/WholeWheatGarlicBread.xaml]
 >>>>>>> parent of fd54624 (commented everything)
@@ -307,7 +373,11 @@ build_metadata.AdditionalFiles.RelativePath = MVVM\Views\WholeWheatGarlicBread.x
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/WorkoutCreatePage.xaml]
+=======
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/WorkoutCreatePage.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 [C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/MVVM/Views/WorkoutCreatePage.xaml]
 >>>>>>> parent of fd54624 (commented everything)
@@ -325,7 +395,11 @@ build_metadata.AdditionalFiles.RelativePath = MVVM\Views\WorkoutCreatePage.xaml
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/Resources/Styles/Colors.xaml]
+=======
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/Resources/Styles/Colors.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 [C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/Resources/Styles/Colors.xaml]
 >>>>>>> parent of fd54624 (commented everything)
@@ -343,7 +417,11 @@ build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [C:/Users/nzbob/OneDrive/Documents/GitHub/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/Resources/Styles/Styles.xaml]
+=======
+[C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/Resources/Styles/Styles.xaml]
+>>>>>>> parent of fd54624 (commented everything)
 =======
 [C:/Users/nzbob/OneDrive/Desktop/AppDevT4/Proteine-Plus/ProteinePlusApp/ProteinePlusApp/Resources/Styles/Styles.xaml]
 >>>>>>> parent of fd54624 (commented everything)

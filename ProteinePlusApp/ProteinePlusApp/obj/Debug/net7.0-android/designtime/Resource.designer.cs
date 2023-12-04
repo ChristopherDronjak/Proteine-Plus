@@ -10508,6 +10508,7 @@ namespace ProteinePlusApp
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 			public const int shellcontent = 2131427446;
 			
 			// aapt resource value: 0x7F0B0077
@@ -10518,6 +10519,12 @@ namespace ProteinePlusApp
 			
 			// aapt resource value: 0x7F0B0001
 			public const int Toolbar = 2131427329;
+=======
+			public const int Tabbar = 2131427446;
+			
+			// aapt resource value: 0x7F0B0077
+			public const int Toolbar = 2131427447;
+>>>>>>> parent of fd54624 (commented everything)
 =======
 			public const int Tabbar = 2131427446;
 			
