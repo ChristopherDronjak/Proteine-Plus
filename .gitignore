@@ -12,3 +12,5 @@
 *.bin
 *.vsidx
 ProteinePlusApp/.vs/ProteinePlusApp/FileContentIndex/read.lock
+ProteinePlusApp/ProteinePlusApp/obj/Debug/net7.0-android/designtime/Resource.designer.cs
+ProteinePlusApp/ProteinePlusApp/obj/Debug/net7.0/ProteinePlusApp.GeneratedMSBuildEditorConfig.editorconfig
