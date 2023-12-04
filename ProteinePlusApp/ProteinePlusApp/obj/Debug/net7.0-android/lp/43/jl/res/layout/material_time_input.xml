@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright 2020 The Android Open Source Project
 
@@ -13,25 +12,4 @@
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
- -->
-
-<com.google.android.material.textfield.TextInputLayout xmlns:android="http://schemas.android.com/apk/res/android"
-  xmlns:app="http://schemas.android.com/apk/res-auto"
-  android:layout_width="wrap_content"
-  android:layout_height="wrap_content"
-  app:errorIconDrawable="@null"
-  app:hintEnabled="false" >
-
-  <com.google.android.material.textfield.TextInputEditText
-    android:layout_width="96dp"
-    android:textCursorDrawable="@drawable/material_cursor_drawable"
-    android:layout_height="80dp"
-    android:paddingBottom="@dimen/material_time_input_padding_bottom" />
-
-  <TextView
-    android:id="@+id/material_label"
-    android:focusable="false"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content" />
-
-</com.google.android.material.textfield.TextInputLayout>
+ --><com.google.android.material.textfield.TextInputLayout android:layout_width="wrap_content" android:layout_height="wrap_content" app:errorIconDrawable="@null" app:hintEnabled="false" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"><com.google.android.material.textfield.TextInputEditText android:layout_width="96dp" android:textCursorDrawable="@drawable/material_cursor_drawable" android:layout_height="80dp" android:paddingBottom="@dimen/material_time_input_padding_bottom" /><TextView android:id="@+id/material_label" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" /></com.google.android.material.textfield.TextInputLayout>

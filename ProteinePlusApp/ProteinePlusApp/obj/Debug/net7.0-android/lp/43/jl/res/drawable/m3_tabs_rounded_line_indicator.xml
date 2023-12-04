@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!--
   Copyright 2021 The Android Open Source Project
 
@@ -13,21 +12,4 @@
   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   See the License for the specific language governing permissions and
   limitations under the License.
-  -->
-
-<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-  <item
-      android:left="2dp"
-      android:right="2dp">
-    <shape
-        android:shape="rectangle">
-      <solid android:color="@android:color/white"/>
-      <corners
-          android:bottomLeftRadius="0dp"
-          android:bottomRightRadius="0dp"
-          android:topLeftRadius="3dp"
-          android:topRightRadius="3dp"/>
-      <size android:height="3dp"/>
-    </shape>
-  </item>
-</layer-list>
+  --><layer-list xmlns:android="http://schemas.android.com/apk/res/android"><item android:left="2dp" android:right="2dp"><shape android:shape="rectangle"><solid android:color="@android:color/white" /><corners android:bottomLeftRadius="0dp" android:bottomRightRadius="0dp" android:topLeftRadius="3dp" android:topRightRadius="3dp" /><size android:height="3dp" /></shape></item></layer-list>

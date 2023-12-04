@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2021 The Android Open Source Project
 
@@ -13,60 +12,4 @@
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
--->
-<set xmlns:android="http://schemas.android.com/apk/res/android">
-  <selector>
-
-    <!-- Hover state. This is triggered via mouse. -->
-    <item
-        android:state_enabled="true"
-        android:state_hovered="true">
-      <set>
-        <objectAnimator
-            android:duration="@integer/m3_btn_anim_duration_ms"
-            android:propertyName="translationZ"
-            android:valueTo="@dimen/m3_btn_translation_z_hovered"
-            android:valueType="floatType"/>
-        <objectAnimator
-            android:duration="0"
-            android:propertyName="elevation"
-            android:valueTo="@dimen/m3_btn_elevation"
-            android:valueType="floatType"/>
-      </set>
-    </item>
-
-    <!-- Base state (enabled) -->
-    <item android:state_enabled="true">
-      <set>
-        <objectAnimator
-            android:duration="@integer/m3_btn_anim_duration_ms"
-            android:propertyName="translationZ"
-            android:startDelay="@integer/m3_btn_anim_delay_ms"
-            android:valueTo="@dimen/m3_btn_translation_z_base"
-            android:valueType="floatType"/>
-        <objectAnimator
-            android:duration="0"
-            android:propertyName="elevation"
-            android:valueTo="@dimen/m3_btn_elevation"
-            android:valueType="floatType"/>
-      </set>
-    </item>
-
-    <!-- Disabled state -->
-    <item>
-      <set>
-        <objectAnimator
-            android:duration="0"
-            android:propertyName="translationZ"
-            android:valueTo="@dimen/m3_btn_disabled_translation_z"
-            android:valueType="floatType"/>
-        <objectAnimator
-            android:duration="0"
-            android:propertyName="elevation"
-            android:valueTo="@dimen/m3_btn_disabled_elevation"
-            android:valueType="floatType"/>
-      </set>
-    </item>
-
-  </selector>
-</set>
+--><set xmlns:android="http://schemas.android.com/apk/res/android"><selector><!-- Hover state. This is triggered via mouse. --><item android:state_enabled="true" android:state_hovered="true"><set><objectAnimator android:duration="@integer/m3_btn_anim_duration_ms" android:propertyName="translationZ" android:valueTo="@dimen/m3_btn_translation_z_hovered" android:valueType="floatType" /><objectAnimator android:duration="0" android:propertyName="elevation" android:valueTo="@dimen/m3_btn_elevation" android:valueType="floatType" /></set></item><!-- Base state (enabled) --><item android:state_enabled="true"><set><objectAnimator android:duration="@integer/m3_btn_anim_duration_ms" android:propertyName="translationZ" android:startDelay="@integer/m3_btn_anim_delay_ms" android:valueTo="@dimen/m3_btn_translation_z_base" android:valueType="floatType" /><objectAnimator android:duration="0" android:propertyName="elevation" android:valueTo="@dimen/m3_btn_elevation" android:valueType="floatType" /></set></item><!-- Disabled state --><item><set><objectAnimator android:duration="0" android:propertyName="translationZ" android:valueTo="@dimen/m3_btn_disabled_translation_z" android:valueType="floatType" /><objectAnimator android:duration="0" android:propertyName="elevation" android:valueTo="@dimen/m3_btn_disabled_elevation" android:valueType="floatType" /></set></item></selector></set>
