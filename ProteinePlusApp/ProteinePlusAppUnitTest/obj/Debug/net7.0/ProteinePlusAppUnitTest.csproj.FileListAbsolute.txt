@@ -8,6 +8,7 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\ProteinePlusAppUnitTest.runtimeconfig.json
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\ProteinePlusAppUnitTest.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\ProteinePlusAppUnitTest.pdb
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\Castle.Core.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\CommunityToolkit.Mvvm.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
@@ -30,12 +31,14 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\Moq.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\NuGet.Frameworks.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\SQLite-net.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\SQLitePCLRaw.core.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\Xamarin.Essentials.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\xunit.abstractions.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\xunit.assert.dll
@@ -127,6 +130,8 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\ProteinePlusApp.dll
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\ProteinePlusApp.pdb
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\obj\Debug\net7.0\ProteinePlusAppUnitTest.csproj.AssemblyReference.cache
@@ -140,8 +145,3 @@ C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteineP
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\obj\Debug\net7.0\ProteinePlusAppUnitTest.pdb
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\obj\Debug\net7.0\ProteinePlusAppUnitTest.genruntimeconfig.cache
 C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\obj\Debug\net7.0\ref\ProteinePlusAppUnitTest.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\Castle.Core.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\Moq.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
-C:\Users\nzbob\OneDrive\Desktop\AppDevT4\Proteine-Plus\ProteinePlusApp\ProteinePlusAppUnitTest\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
