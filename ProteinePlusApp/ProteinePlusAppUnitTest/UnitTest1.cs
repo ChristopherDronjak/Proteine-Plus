@@ -37,6 +37,10 @@ namespace ProteinePlusUnitTest
             Assert.Equal("TestUsername", viewModel.Username);
         }
 
+    }
+
+    public class UnitTest2
+    {
         [Fact]
         public void Password_Set_PropertyChangedEventRaised()
         {
@@ -59,7 +63,7 @@ namespace ProteinePlusUnitTest
             Assert.True(eventRaised);
             Assert.Equal("TestPassword", viewModel.Password);
         }
-
     }
-    
+
+
 }
